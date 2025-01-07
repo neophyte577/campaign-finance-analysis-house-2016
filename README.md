@@ -2,7 +2,7 @@
  
 ### Overview
 
-This project is a proof-of-concept pilot analysis of the effect of campaign contributions and incumbency on the outcome of the 2016 House election using a combination of conventional statistical data displays and analyses, complemented by the application of several machine learning algorithms. The overall approach and repository structure were developed with scalability in mind in order to facilitate extensions of the project to incorporate data from many additional House election cycles.
+This project is a proof-of-concept pilot analysis of FEC campaign finance and electoral outcome data to determine the effect of campaign contributions and candidate incumbency on the outcome of the 2016 House election using conventional statistical methodology complemented by the application of several machine learning algorithms. The overall approach and repository structure were developed with scalability in mind in order to facilitate extensions of the project to incorporate data from additional House election cycles.
 
 ### Repository Structure
 
@@ -10,18 +10,18 @@ Here’s a quick guide to the contents of this repository:
 
 - **analysis/**: Jupyter notebooks in which the processed data are presented, analyzed, and discussed
   - **primary-analysis-larger-dataset/**: Main project notebook analyzing full processed dataset, excluding vote count and vote share 
-  - **smaller-analysis-smaller-dataset/**: Secondary notebook analyzing more limited dataset including only those candidates for whom complete voting data were available
+  - **supplementary-analysis-smaller-dataset/**: Secondary notebook analyzing more limited dataset including only those candidates for whom complete voting data were available
 - **data/**:
-  - **raw/**: Original datasets used in the project 
+  - **raw/**: FEC campaign finance and electoral data obtained from https://www.fec.gov/data/browse-data/?tab=bulk-data 
   - **processed/**: Cleaned and transformed data ready for analysis
 - **data_prep**: Notebooks in which raw FEC data are cleaned and transformed for analysis
-- **scripts/**:
+- **scripts/**: Python scripts used for data cleaning and analysis
   - **name_cleaner.py**: Script for cleaning and formatting candidate names
 - **results/**:
-  - **larger-dataset-primary/**: Contains output and displays from primary analysis of larger dataset 
+  - **larger-dataset/**: Contains output and displays from primary analysis of larger dataset 
     - **figures/**: Visualizations such as bar charts, box plots, scatterplots, etc.
     - **tables/**: Summary statistics and regression results
-  - **smaller-dataset-supplementary/**: Contains output and displays from supplementary analysis of smaller dataset including vote data
+  - **smaller-dataset/**: Contains output and displays from supplementary analysis of smaller dataset including vote data
     - **figures/**: Visualizations such as bar charts, box plots, scatterplots, etc.
     - **tables/**: Summary statistics and regression results  
 - **README.md**: This document
