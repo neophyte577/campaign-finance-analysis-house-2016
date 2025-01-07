@@ -8,7 +8,6 @@ This project is a proof-of-concept pilot analysis of the effect of campaign cont
 
 Here’s a quick guide to the contents of this repository:
 
-- **writeup.pdf**: Comprehensive report detailing methodology, analysis, and conclusions
 - **analysis/**: Jupyter notebooks in which the processed data are presented, analyzed, and discussed
   - **primary-analysis-larger-dataset/**: Main project notebook analyzing full processed dataset, excluding vote count and vote share 
   - **smaller-analysis-smaller-dataset/**: Secondary notebook analyzing more limited dataset including only those candidates for whom complete voting data were available
