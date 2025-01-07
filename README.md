@@ -10,10 +10,10 @@ Here’s a quick guide to the contents of this repository:
 
 - **analysis/**: Jupyter notebooks in which the processed data are presented, analyzed, and discussed
   - **primary-analysis-larger-dataset/**: Main project notebook analyzing full processed dataset, excluding vote count and vote share 
-  - **supplementary-analysis-smaller-dataset/**: Secondary notebook analyzing more limited dataset including only those candidates for whom complete voting data were available
+  - **supplementary-analysis-smaller-dataset/**: Secondary notebook analyzing more limited dataset including only those candidates for whom complete general election data were available
 - **data/**: 
   - **raw/**: FEC campaign finance and electoral data obtained from https://www.fec.gov/data/browse-data/?tab=bulk-data 
-  - **processed/**: Cleaned and transformed data ready for analysis\*
+  - **processed/**: Cleaned and transformed data ready for analysis
 - **data_prep/**: Notebooks in which raw FEC data are cleaned and transformed for analysis
 - **results/**:
   - **larger-dataset/**: Contains output and displays from primary analysis of larger dataset 
