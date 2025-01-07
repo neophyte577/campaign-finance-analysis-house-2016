@@ -25,7 +25,7 @@ Here’s a quick guide to the contents of this repository:
     - **tables/**: Summary statistics and regression results  
 - **README.md**: This document
 
-\* <small>For various reasons discussed in the notebooks contained in the analysis/ directory, there were hundreds of candidates in the FEC's campaign finance data for whom complete general electoral data were unavailable. In lieu of forgoing a more thorough analysis incorporating vote count and vote share, two datasets were produced from the raw data to be analyzed separately: A larger, primary dataset containing all candidates for whom campaign finance data were available; and a smaller, more feature-rich dataset consisting of those candidates for whom complete campaign finance and election data were available.</small>
+\* <span style="font-size: smaller;">For various reasons discussed in the notebooks contained in the analysis/ directory, there were hundreds of candidates in the FEC's campaign finance data for whom complete general election data were unavailable. In lieu of forgoing a more thorough analysis incorporating vote count and vote share, two datasets were produced from the raw data to be analyzed separately: A larger, primary dataset containing all candidates for whom campaign finance data were available; and a smaller, more feature-rich dataset consisting of those candidates for whom complete campaign finance and election data were available.</span>
 
 ### Introduction
 
