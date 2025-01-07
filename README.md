@@ -13,7 +13,7 @@ Here’s a quick guide to the contents of this repository:
   - **supplementary-analysis-smaller-dataset/**: Secondary notebook analyzing more limited dataset including only those candidates for whom complete voting data were available
 - **data/**: 
   - **raw/**: FEC campaign finance and electoral data obtained from https://www.fec.gov/data/browse-data/?tab=bulk-data 
-  - **processed/**: Cleaned and transformed data ready for analysis**\***
+  - **processed/**: Cleaned and transformed data ready for analysis\*
 - **data_prep**: Notebooks in which raw FEC data are cleaned and transformed for analysis
 - **scripts/**: Python scripts used for specific data cleaning or analytic tasks
 - **results/**:
@@ -25,7 +25,7 @@ Here’s a quick guide to the contents of this repository:
     - **tables/**: Summary statistics and regression results  
 - **README.md**: This document
 
-**\***n.b. - There were hundreds of candidates in the FEC's campaign finance data for whom complete general election data were unavailable. In lieu of forgoing a more thorough analysis incorporating vote count and vote share, two datasets were produced from the raw data to be analyzed separately: A larger, primary dataset containing all candidates for whom campaign finance data were available; and a smaller, more feature-rich dataset consisting of those candidates for whom complete campaign finance and election data were available.</span>
+\*n.b. - There were hundreds of candidates in the FEC's campaign finance data for whom complete general election data were unavailable. In lieu of forgoing a more thorough analysis incorporating vote count and vote share, two datasets were produced from the raw data to be analyzed separately: A larger, primary dataset containing all candidates for whom campaign finance data were available; and a smaller, more feature-rich dataset consisting of those candidates for whom complete campaign finance and election data were available.</span>
 
 ### Introduction
 
