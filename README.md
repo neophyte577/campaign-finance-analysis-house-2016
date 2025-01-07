@@ -1,5 +1,5 @@
 ## Campaign Finance Analysis Pilot Project
-
+ 
 ### Overview
 
 This project is a proof-of-concept pilot analysis of the effect of campaign contributions and incumbency on the outcome of the 2016 House election using a combination of conventional statistical data displays and analyses, complemented by the application of several machine learning algorithms. The overall approach and repository structure were developed with scalability in mind in order to facilitate extensions of the project to incorporate data from many additional House election cycles.
