@@ -2,7 +2,7 @@
  
 ### Overview
 
-This project is a proof-of-concept pilot analysis of FEC campaign finance and electoral outcome data to determine the effect of campaign contributions and candidate incumbency on the outcome of the 2016 House election using conventional statistical methodology complemented by the application of several machine learning algorithms. The overall approach and repository structure were developed with scalability in mind in order to facilitate extensions of the project to incorporate data from additional House election cycles.
+This proof-of-concept pilot analysis of FEC campaign finance and electoral outcome data uses conventional statistical methodology complemented by the application of several machine learning algorithms to explore the effect of campaign contributions and candidate incumbency on the outcome of the 2016 House election. The overall approach and repository structure were developed with scalability in mind in order to facilitate extensions of the project to incorporate data from additional House election cycles.
 
 ### Repository Structure
 
