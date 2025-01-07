@@ -11,12 +11,11 @@ Here’s a quick guide to the contents of this repository:
 - **analysis/**: Jupyter notebooks in which the processed data are presented, analyzed, and discussed
   - **primary-analysis-larger-dataset/**: Main project notebook analyzing full processed dataset, excluding vote count and vote share 
   - **supplementary-analysis-smaller-dataset/**: Secondary notebook analyzing more limited dataset including only those candidates for whom complete voting data were available
-- **data/**:
+- **data/**: 
   - **raw/**: FEC campaign finance and electoral data obtained from https://www.fec.gov/data/browse-data/?tab=bulk-data 
-  - **processed/**: Cleaned and transformed data ready for analysis
+  - **processed/**: Cleaned and transformed data ready for analysis\*
 - **data_prep**: Notebooks in which raw FEC data are cleaned and transformed for analysis
-- **scripts/**: Python scripts used for data cleaning and analysis
-  - **name_cleaner.py**: Script for cleaning and formatting candidate names
+- **scripts/**: Python scripts used for specific data cleaning or analytic tasks
 - **results/**:
   - **larger-dataset/**: Contains output and displays from primary analysis of larger dataset 
     - **figures/**: Visualizations such as bar charts, box plots, scatterplots, etc.
@@ -25,6 +24,8 @@ Here’s a quick guide to the contents of this repository:
     - **figures/**: Visualizations such as bar charts, box plots, scatterplots, etc.
     - **tables/**: Summary statistics and regression results  
 - **README.md**: This document
+
+\* <small>For various reasons discussed in the notebooks contained in the analysis/ directory, there were hundreds of candidates in the FEC's campaign finance data for whom complete general electoral data were unavailable. In lieu of forgoing a more thorough analysis incorporating vote count and vote share, two datasets were produced from the raw data to be analyzed separately: A larger, primary dataset containing all candidates for whom campaign finance data were available; and a smaller, more feature-rich dataset consisting of those candidates for whom complete campaign finance and election data were available.</small>
 
 ### Introduction
 
