@@ -1,0 +1,773 @@
+state_abbr,state,district,fec_id,first_name,last_name,name,party,votes,vote_share,winner,inc,tot_rec
+AL,Alabama,2,H0AL02087,martha,roby,martha roby,Republican,134886,0.487685477106413,1,Incumbent,1404260.12
+AL,Alabama,2,H6AL02167,nathan,mathis,nathan mathis,Democrat,112089,0.405262054204148,0,Challenger,36844.0
+AL,Alabama,3,H2AL03032,mike,rogers,mike rogers,Republican,192164,0.66931843513152,1,Incumbent,1139022.37
+AL,Alabama,3,H4AL03061,jesse,smith,jesse smith,Democrat,94549,0.329319689032546,0,Challenger,9810.0
+AL,Alabama,5,H0AL05163,mo,brooks,mo brooks,Republican,205647,0.666979106530101,1,Incumbent,476225.18
+AL,Alabama,5,H6AL05202,will,boyd,will boyd,Democrat,102234,0.331577615900054,0,Challenger,61311.93
+AL,Alabama,6,H4AL06098,gary,palmer,gary palmer,Republican,245313,0.744939357315081,1,Incumbent,1232446.2
+AL,Alabama,6,H6AL06127,david,putman,david putman,Democrat,83709,0.254198222929433,0,Challenger,197378.52
+AK,Alaska,0,H6AK00045,don,young,don young,Republican,155088,0.503208976047865,1,Incumbent,1103561.86
+AK,Alaska,0,H6AK00235,steve,lindbeck,steve lindbeck,Democrat,111019,0.360219728875593,0,Challenger,1102309.77
+AS,American Samoa,0,H4AS00036,aumua,amata,aumua amata,Republican,8923,0.754013858374176,1,Incumbent,78278.3
+AS,American Samoa,0,H6AS00031,vaitinasa,hunkinfinau,vaitinasa hunkinfinau,Democrat,1581,0.133598107148893,0,Challenger,41670.0
+AS,American Samoa,0,H4AS00069,paepaetele,jamias,paepaetele jamias,Democrat,978,0.0826432313672469,0,Challenger,11803.0
+AZ,Arizona,1,H6AZ01199,tom,ohalleran,tom ohalleran,Democrat,142219,0.506640304941042,1,Open,1605996.95
+AZ,Arizona,1,H2AZ04127,paul,babeu,paul babeu,Republican,121745,0.433703822450216,0,Open,1294238.74
+AZ,Arizona,2,H2AZ08102,martha,mcsally,martha mcsally,Republican,179806,0.569584926460107,1,Incumbent,7878156.18
+AZ,Arizona,4,H0AZ01259,paul,gosar,paul gosar,Republican,203487,0.714533522015008,1,Incumbent,707653.4
+AZ,Arizona,4,H2AZ04143,mikel,weisser,mikel weisser,Democrat,81296,0.285466477984992,0,Challenger,36043.62
+AZ,Arizona,5,H6AZ05083,andy,biggs,andy biggs,Republican,205184,0.640951631242893,1,Open,995666.43
+AZ,Arizona,5,H6AZ05133,talia,fuentes,talia fuentes,Democrat,114940,0.359048368757107,0,Open,18657.82
+AZ,Arizona,6,H4AZ06045,david,schweikert,david schweikert,Republican,201578,0.621302905894392,1,Incumbent,797747.29
+AZ,Arizona,6,H2AZ05132,john,williamson,john williamson,Democrat,122866,0.378697094105608,0,Challenger,6470.77
+AZ,Arizona,7,H4AZ07043,ruben,gallego,ruben gallego,Democrat,119465,0.752246380918198,1,Incumbent,1093477.4
+AZ,Arizona,7,H6AZ07030,eve,nunez,eve nunez,Republican,39286,0.247375811499203,0,Challenger,33620.36
+AZ,Arizona,8,H4AZ04024,trent,franks,trent franks,Republican,204942,0.68549123493583,1,Incumbent,362299.08
+AZ,Arizona,9,H2AZ09019,kyrsten,sinema,kyrsten sinema,Democrat,169055,0.609191840205833,1,Incumbent,4402181.31
+AZ,Arizona,9,H6AZ09010,dave,giles,dave giles,Republican,108350,0.390440601498341,0,Challenger,273769.71
+AR,Arkansas,1,H0AR01083,rick,crawford,rick crawford,Republican,183866,0.762780702518596,1,Incumbent,669501.96
+AR,Arkansas,2,H4AR02141,french,hill,french hill,Republican,176472,0.583447947524334,1,Incumbent,2240181.57
+AR,Arkansas,2,H6AR02245,dianne,curry,dianne curry,Democrat,111347,0.368133067075751,0,Challenger,37666.34
+AR,Arkansas,3,H0AR03055,steve,womack,steve womack,Republican,217192,0.773181159600864,1,Incumbent,931782.13
+AR,Arkansas,4,H4AR04048,bruce,westerman,bruce westerman,Republican,182885,0.74904058420947,1,Incumbent,716791.26
+CA,California,1,H2CA02142,doug,malfa,doug malfa,Republican,185448,0.590531021921054,1,Incumbent,800277.02
+CA,California,1,H6CA01194,jim,reed,jim reed,Democrat,128588,0.409468978078946,0,Challenger,138508.99
+CA,California,2,H2CA06259,jared,huffman,jared huffman,Democrat,254194,0.768500994660878,1,Incumbent,973816.67
+CA,California,2,H4CA02098,dale,mensing,dale mensing,Republican,76572,0.231499005339122,0,Challenger,4587.0
+CA,California,3,H0CA10149,john,garamendi,john garamendi,Democrat,152513,0.593514317069184,1,Incumbent,1145846.45
+CA,California,3,H6CA03117,eugene,cleek,eugene cleek,Republican,104453,0.406485682930816,0,Challenger,382004.01
+CA,California,4,H8CA04152,tom,mcclintock,tom mcclintock,Republican,220133,0.627198855768738,1,Incumbent,1058570.56
+CA,California,4,H6CA04156,robert,derlet,robert derlet,Democrat,130845,0.372801144231262,0,Challenger,105527.33
+CA,California,5,H8CA01109,mike,thompson,mike thompson,Democrat,224526,0.768685101560815,1,Incumbent,2057128.82
+CA,California,5,H6CA05336,carlos,santamaria,carlos santamaria,Republican,67565,0.231314898439185,0,Challenger,2700.0
+CA,California,6,H6CA05195,doris,matsui,doris matsui,Democrat,177565,0.754270155004184,1,Incumbent,1103289.27
+CA,California,6,H6CA06227,robert,evans,robert evans,Republican,57848,0.245729844995816,0,Challenger,2905.0
+CA,California,7,H0CA03078,ami,bera,ami bera,Democrat,152133,0.511713717747334,1,Incumbent,4172935.83
+CA,California,7,H6CA07126,scott,jones,scott jones,Republican,145168,0.488286282252667,0,Challenger,1362661.26
+CA,California,8,H2CA08164,paul,cook,paul cook,Republican,136972,0.622580190630298,1,Incumbent,944657.62
+CA,California,8,H8CA41139,rita,ramirez,rita ramirez,Democrat,83035,0.377419809369702,0,Challenger,35743.12
+CA,California,9,H4CA11081,jerry,mcnerney,jerry mcnerney,Democrat,133163,0.573595227326571,1,Incumbent,1217897.4
+CA,California,9,H0CA11337,antonio,amador,antonio amador,Republican,98992,0.426404772673429,0,Challenger,65366.84
+CA,California,10,H0CA19173,jeff,denham,jeff denham,Republican,124671,0.51700457408736,1,Incumbent,3345326.67
+CA,California,10,H4CA10075,michael,eggman,michael eggman,Democrat,116470,0.48299542591264,0,Challenger,1639589.92
+CA,California,11,H0CA10073,mark,desaulnier,mark desaulnier,Democrat,214868,0.720528220140908,1,Incumbent,629490.86
+CA,California,11,H6CA11169,roger,petersen,roger petersen,Republican,83341,0.279471779859092,0,Challenger,8789.5
+CA,California,12,H8CA05035,nancy,pelosi,nancy pelosi,Democrat,274035,0.808732606353938,1,Incumbent,4416893.49
+CA,California,12,H6CA12175,preston,picus,preston picus,Other,64810,0.191267393646062,0,Challenger,28479.57
+CA,California,13,H8CA09060,barbara,lee,barbara lee,Democrat,293117,0.907845548222045,1,Incumbent,1328822.47
+CA,California,13,H6CA13140,sue,caro,sue caro,Republican,29754,0.0921544517779547,0,Challenger,4521.0
+CA,California,14,H8CA12171,jackie,speier,jackie speier,Democrat,231630,0.808631265120598,1,Incumbent,874657.21
+CA,California,14,H6CA14114,angel,cardenas,angel cardenas,Other,54817,0.191368734879402,0,Challenger,4140.06
+CA,California,15,H2CA15094,eric,swalwell,eric swalwell,Democrat,198578,0.737667953208988,1,Incumbent,1986833.43
+CA,California,15,H6CA15152,danny,turner,danny turner,Republican,70619,0.262332046791012,0,Challenger,632.75
+CA,California,16,H4CA20082,jim,costa,jim costa,Democrat,97473,0.580348424587392,1,Incumbent,1759404.4
+CA,California,16,H2CA16100,johnny,tacherra,johnny tacherra,Republican,70483,0.419651575412608,0,Challenger,547428.08
+CA,California,17,H4CA12055,ro,khanna,ro khanna,Democrat,142268,0.610089539949913,1,Challenger,3732538.09
+CA,California,17,H0CA15148,mike,honda,mike honda,Democrat,90924,0.389910460050088,0,Incumbent,2996005.94
+CA,California,18,H8CA12098,anna,eshoo,anna eshoo,Democrat,230460,0.71145000463063,1,Incumbent,1375000.13
+CA,California,18,H4CA18094,richard,fox,richard fox,Republican,93470,0.28854999536937,0,Challenger,26480.93
+CA,California,19,H4CA16049,zoe,lofgren,zoe lofgren,Democrat,181802,0.739444324684886,1,Incumbent,1381139.75
+CA,California,19,H6CA19121,burt,lancaster,burt lancaster,Republican,64061,0.260555675315115,0,Challenger,5500.0
+CA,California,20,H6CA20152,jimmy,panetta,jimmy panetta,Democrat,180980,0.707530757532517,1,Open,1417975.94
+CA,California,20,H6CA20145,casey,lucius,casey lucius,Republican,74811,0.292469242467483,0,Open,420766.94
+CA,California,21,H2CA20094,david,valadao,david valadao,Republican,75126,0.567382635490303,1,Incumbent,2783958.76
+CA,California,21,H6CA21218,emilio,huerta,emilio huerta,Democrat,57282,0.432617364509697,0,Challenger,774232.31
+CA,California,22,H8CA20059,devin,nunes,devin nunes,Republican,158755,0.675650945243142,1,Incumbent,2463359.88
+CA,California,23,H6CA22125,kevin,mccarthy,kevin mccarthy,Republican,167116,0.69175110934499,1,Incumbent,7824640.59
+CA,California,23,H6CA23206,wendy,reed,wendy reed,Democrat,74468,0.30824889065501,0,Challenger,40357.4
+CA,California,24,H6CA24303,salud,carbajal,salud carbajal,Democrat,166034,0.534190866563282,1,Open,3172597.42
+CA,California,24,H4CA24142,justin,fareed,justin fareed,Republican,144780,0.465809133436718,0,Open,2353070.71
+CA,California,25,H4CA25123,steve,knight,steve knight,Republican,138755,0.531300615329241,1,Incumbent,1712195.09
+CA,California,25,H6CA25177,bryan,caforio,bryan caforio,Democrat,122406,0.468699384670759,0,Challenger,1706520.29
+CA,California,26,H2CA00120,julia,brownley,julia brownley,Democrat,169248,0.603795124631208,1,Incumbent,3397538.71
+CA,California,26,H4CA26139,rafael,dagnesses,rafael dagnesses,Republican,111059,0.396204875368792,0,Challenger,431583.71
+CA,California,27,H0CA32101,judy,chu,judy chu,Democrat,168977,0.674203613265664,1,Incumbent,1185705.39
+CA,California,27,H2CA27198,jack,orswell,jack orswell,Republican,81655,0.325796386734336,0,Challenger,201166.01
+CA,California,28,H0CA27085,adam,schiff,adam schiff,Democrat,210883,0.779866794374448,1,Incumbent,975256.29
+CA,California,29,H2CA28113,tony,cardenas,tony cardenas,Democrat,128407,0.747317022069094,1,Incumbent,1705480.77
+CA,California,29,H6CA29229,richard,alarcon,richard alarcon,Democrat,43417,0.252682977930906,0,Challenger,70834.33
+CA,California,30,H6CA24113,brad,sherman,brad sherman,Democrat,205279,0.726383915301977,1,Incumbent,1663502.31
+CA,California,31,H2CA31125,pete,aguilar,pete aguilar,Democrat,121070,0.560675385299348,1,Incumbent,2954535.72
+CA,California,31,H4CA31071,paul,chabot,paul chabot,Republican,94866,0.439324614700652,0,Challenger,698718.69
+CA,California,32,H8CA34068,grace,napolitano,grace napolitano,Democrat,114926,0.615743171565423,1,Incumbent,748105.98
+CA,California,32,H6CA32132,roger,hernndez,roger hernndez,Democrat,71720,0.384256828434577,0,Challenger,187642.23
+CA,California,33,H4CA33119,ted,lieu,ted lieu,Democrat,219397,0.664398474951472,1,Incumbent,2066220.28
+CA,California,33,H6CA33106,kenneth,wright,kenneth wright,Republican,110822,0.335601525048528,0,Challenger,77202.3
+CA,California,34,H2CA30143,xavier,becerra,xavier becerra,Democrat,122842,0.77183392394883,1,Incumbent,1867773.33
+CA,California,34,H6CA34229,adrienne,edwards,adrienne edwards,Democrat,36314,0.22816607605117,0,Challenger,20.0
+CA,California,35,H4CA35031,norma,torres,norma torres,Democrat,124044,0.723909123271842,1,Incumbent,608052.9
+CA,California,35,H6CA35127,tyler,fischella,tyler fischella,Republican,47309,0.276090876728158,0,Challenger,3747.65
+CA,California,36,H2CA36439,raul,ruiz,raul ruiz,Democrat,144348,0.620539341492668,1,Incumbent,3219813.81
+CA,California,36,H6CA36182,jeff,stone,jeff stone,Republican,88269,0.379460658507332,0,Challenger,362037.43
+CA,California,37,H0CA33117,karen,bass,karen bass,Democrat,192490,0.811263023028423,1,Incumbent,648452.4
+CA,California,38,H2CA39078,linda,snchez,linda snchez,Democrat,163590,0.704782994563016,1,Incumbent,1480952.91
+CA,California,39,H6CA39020,ed,royce,ed royce,Republican,150777,0.572304293696101,1,Incumbent,4456337.02
+CA,California,39,H6CA39137,brett,murdock,brett murdock,Democrat,112679,0.427695706303899,0,Challenger,79382.92
+CA,California,40,H2CA33048,lucille,roybalallard,lucille roybalallard,Democrat,106554,0.713704896950374,1,Incumbent,656653.58
+CA,California,41,H2CA43245,mark,takano,mark takano,Democrat,128164,0.649513741429028,1,Incumbent,1075393.13
+CA,California,41,H6CA41182,doug,shepherd,doug shepherd,Republican,69159,0.350486258570973,0,Challenger,252554.04
+CA,California,42,H2CA37023,ken,calvert,ken calvert,Republican,149547,0.588221180320647,1,Incumbent,1452907.26
+CA,California,42,H4CA42086,tim,sheridan,tim sheridan,Democrat,104689,0.411778819679353,0,Challenger,162960.71
+CA,California,43,H4CA23011,maxine,waters,maxine waters,Democrat,167017,0.760842034293628,1,Incumbent,954948.76
+CA,California,43,H6CA44145,omar,navarro,omar navarro,Republican,52499,0.239157965706372,0,Open,2846.0
+CA,California,44,H6CA44103,nanette,barragn,nanette barragn,Democrat,93124,0.521957480676857,1,Open,1910135.24
+CA,California,44,H2CA35100,isadore,hall,isadore hall,Democrat,85289,0.478042519323144,0,Open,1881384.39
+CA,California,45,H4CA45097,mimi,walters,mimi walters,Republican,182618,0.585597516746887,1,Incumbent,1977608.5
+CA,California,45,H2CA48095,ron,varasteh,ron varasteh,Democrat,129231,0.414402483253113,0,Challenger,40303.49
+CA,California,46,H6CA46116,lou,correa,lou correa,Democrat,115248,0.700199886993979,1,Open,951732.66
+CA,California,46,H6CA46140,bao,nguyen,bao nguyen,Democrat,49345,0.299800113006021,0,Open,281524.4
+CA,California,47,H2CA00104,alan,lowenthal,alan lowenthal,Democrat,154759,0.637214453942059,1,Incumbent,730648.41
+CA,California,47,H4CA47069,andy,whallon,andy whallon,Republican,88109,0.362785546057941,0,Challenger,70741.33
+CA,California,48,H8CA42061,dana,rohrabacher,dana rohrabacher,Republican,178701,0.583197352618662,1,Incumbent,887923.35
+CA,California,48,H6CA48237,suzanne,savary,suzanne savary,Democrat,127715,0.416802647381338,0,Challenger,110054.08
+CA,California,49,H0CA48024,darrell,issa,darrell issa,Republican,155888,0.50261320952427,1,Incumbent,2890440.52
+CA,California,49,H6CA49102,doug,applegate,doug applegate,Democrat,154267,0.49738679047573,0,Challenger,2114731.96
+CA,California,50,H8CA52052,duncan,hunter,duncan hunter,Republican,179937,0.634512647090975,1,Incumbent,1203940.64
+CA,California,50,H6CA50258,patrick,malloy,patrick malloy,Democrat,103646,0.365487352909025,0,Challenger,27447.89
+CA,California,51,H2CA50026,juan,vargas,juan vargas,Democrat,145162,0.72754154888635,1,Incumbent,1138131.37
+CA,California,51,H6CA51066,juan,hidalgo,juan hidalgo,Republican,54362,0.27245845111365,0,Challenger,76403.12
+CA,California,52,H2CA52089,scott,peters,scott peters,Democrat,181253,0.565256848460656,1,Incumbent,3604614.7
+CA,California,52,H6CA52130,denise,gitsham,denise gitsham,Republican,139403,0.434743151539344,0,Challenger,1451738.2
+CA,California,53,H0CA49055,susan,davis,susan davis,Democrat,198988,0.670092538962001,1,Incumbent,485051.35
+CA,California,53,H6CA53054,james,veltmeyer,james veltmeyer,Republican,97968,0.329907461037999,0,Challenger,122886.07
+CO,Colorado,1,H6CO01141,diana,degette,diana degette,Democrat,257254,0.678705980434576,1,Incumbent,1256204.07
+CO,Colorado,1,H6CO01208,charles,stockham,charles stockham,Republican,105030,0.277097689929189,0,Challenger,61218.73
+CO,Colorado,2,H8CO02137,jared,polis,jared polis,Democrat,260175,0.568922311244839,1,Incumbent,1389071.3
+CO,Colorado,2,H6CO02149,nicholas,morse,nicholas morse,Republican,170001,0.371739643831782,0,Challenger,167116.24
+CO,Colorado,3,H6CO03139,scott,tipton,scott tipton,Republican,204220,0.545988765817286,1,Incumbent,1970816.16
+CO,Colorado,3,H6CO03170,gail,schwartz,gail schwartz,Democrat,150914,0.403473453161051,0,Challenger,1704795.54
+CO,Colorado,4,H4CO04090,ken,buck,ken buck,Republican,248230,0.63545253241517,1,Incumbent,1020222.48
+CO,Colorado,4,H6CO04160,bob,seay,bob seay,Democrat,123642,0.31651541720532,0,Challenger,73843.36
+CO,Colorado,5,H6CO05159,doug,lamborn,doug lamborn,Republican,225445,0.622580181931657,1,Incumbent,590783.39
+CO,Colorado,5,H6CO05233,misty,plowright,misty plowright,Democrat,111676,0.308400117090198,0,Challenger,14542.37
+CO,Colorado,6,H8CO06138,mike,coffman,mike coffman,Republican,191626,0.509079026717709,1,Incumbent,3568845.95
+CO,Colorado,6,H6CO06058,morgan,carroll,morgan carroll,Democrat,160372,0.426048770379659,0,Challenger,3158135.43
+CO,Colorado,7,H6CO07023,ed,perlmutter,ed perlmutter,Democrat,199758,0.551802436396785,1,Incumbent,1907702.23
+CO,Colorado,7,H6CO07106,george,athanasopoulos,george athanasopoulos,Republican,144066,0.397961382282257,0,Challenger,54353.6
+CT,Connecticut,1,H8CT01046,john,larson,john larson,Democrat,187021,0.59765439002956,1,Incumbent,1624955.0
+CT,Connecticut,1,H2CT01189,matthew,corey,matthew corey,Republican,105674,0.337697531357354,0,Challenger,18490.31
+CT,Connecticut,2,H2CT02112,joe,courtney,joe courtney,Democrat,186210,0.563833620483442,1,Incumbent,1202548.39
+CT,Connecticut,2,H0CT02140,daria,novak,daria novak,Republican,111149,0.336553048080737,0,Challenger,51167.66
+CT,Connecticut,3,H0CT03072,rosa,delauro,rosa delauro,Democrat,192274,0.621483681827144,1,Incumbent,1146729.78
+CT,Connecticut,4,H8CT04172,jim,himes,jim himes,Democrat,187811,0.599001722268291,1,Incumbent,2167398.67
+CT,Connecticut,4,H4CT04114,john,shaban,john shaban,Republican,120653,0.384808955795114,0,Challenger,154620.31
+CT,Connecticut,5,H2CT05131,elizabeth,esty,elizabeth esty,Democrat,163499,0.528982600086708,1,Incumbent,1989108.93
+CT,Connecticut,5,H6CT05157,clay,cope,clay cope,Other,4901,0.0158566335147307,0,Challenger,109862.67
+DE,Delaware,0,H6DE00206,lisa,rochester,lisa rochester,Democrat,233554,0.555234880182579,1,Open,1576041.65
+DE,Delaware,0,H6DE01071,hans,reigle,hans reigle,Republican,172301,0.409616298972994,0,Open,221665.5
+DC,District of Columbia,0,H0DC00058,eleanor,norton,eleanor norton,Democrat,265178,0.88126524562488,1,Incumbent,385250.0
+FL,Florida,1,H6FL01119,matt,gaetz,matt gaetz,Republican,255107,0.690998575243915,1,Open,1172645.54
+FL,Florida,1,H6FL01176,steven,specht,steven specht,Democrat,114079,0.309001424756085,0,Open,61750.03
+FL,Florida,2,H6FL02208,neal,dunn,neal dunn,Republican,231163,0.673234079484626,1,Open,2060858.58
+FL,Florida,2,H6FL02257,walter,dartland,walter dartland,Democrat,102801,0.299395390287801,0,Open,136763.01
+FL,Florida,2,H6FL02240,rob,lapham,rob lapham,Other,9395,0.0273617930930039,0,Open,18286.6
+FL,Florida,3,H2FL06109,ted,yoho,ted yoho,Republican,193843,0.565634665888532,1,Incumbent,833701.83
+FL,Florida,3,H6FL03081,kenneth,mcgurn,kenneth mcgurn,Democrat,136338,0.397834840968777,0,Challenger,602081.92
+FL,Florida,3,H6FL03073,tom,wells,tom wells,Other,12519,0.0365304931426904,0,Challenger,7916.0
+FL,Florida,4,H6FL04105,john,rutherford,john rutherford,Republican,287509,0.701820037006117,1,Open,835236.7
+FL,Florida,4,H2FL06091,david,bruderly,david bruderly,Democrat,113088,0.276051964790486,0,Open,50194.24
+FL,Florida,5,H0FL02086,al,lawson,al lawson,Democrat,194549,0.642343020529989,1,Challenger,444464.07
+FL,Florida,6,H2FL00292,ron,desantis,ron desantis,Republican,213519,0.5856735332035,1,Incumbent,4928629.93
+FL,Florida,6,H6FL06126,william,mccullough,william mccullough,Democrat,151051,0.4143264667965,0,Challenger,41250.0
+FL,Florida,7,H6FL07140,stephanie,murphy,stephanie murphy,Democrat,182039,0.51473611287837,1,Challenger,1083923.14
+FL,Florida,7,H2FL08055,john,mica,john mica,Republican,171583,0.485170575843689,0,Incumbent,1646784.85
+FL,Florida,8,H8FL15107,bill,posey,bill posey,Republican,246483,0.631099879404242,1,Incumbent,896408.67
+FL,Florida,8,H4FL08077,corry,westbrook,corry westbrook,Democrat,127127,0.325498449665993,0,Challenger,37564.65
+FL,Florida,8,H6FL08254,bill,stinson,bill stinson,Other,16951,0.0434016709297651,0,Challenger,20500.0
+FL,Florida,9,H6FL09179,darren,soto,darren soto,Democrat,195311,0.574848202118548,1,Open,1219140.66
+FL,Florida,9,H6FL09195,wayne,liebnitzky,wayne liebnitzky,Republican,144450,0.425151797881452,0,Open,32471.39
+FL,Florida,10,H2FL08063,val,demings,val demings,Democrat,198491,0.648686717496381,1,Challenger,165168.08
+FL,Florida,10,H6FL05177,thuy,lowe,thuy lowe,Republican,107498,0.351313282503619,0,Challenger,50734.93
+FL,Florida,11,H0FL08208,daniel,webster,daniel webster,Republican,258016,0.653670079220914,1,Incumbent,875287.5
+FL,Florida,11,H4FL11071,dave,koller,dave koller,Democrat,124713,0.315953881115426,0,Open,49745.28
+FL,Florida,12,H6FL09070,gus,bilirakis,gus bilirakis,Republican,253559,0.685908204366609,1,Incumbent,1414045.95
+FL,Florida,12,H6FL12181,robert,tager,robert tager,Democrat,116110,0.314091795633391,0,Challenger,47918.0
+FL,Florida,13,H6FL13205,charlie,crist,charlie crist,Democrat,184693,0.519030918216512,1,Challenger,2081442.29
+FL,Florida,13,H4FL13101,david,jolly,david jolly,Republican,171149,0.480969081783488,0,Incumbent,1989867.96
+FL,Florida,14,H6FL11126,kathy,castor,kathy castor,Democrat,195789,0.617870656437671,1,Incumbent,735013.13
+FL,Florida,14,H6FL14112,christine,quinn,christine quinn,Republican,121088,0.382129343562329,0,Challenger,33107.49
+FL,Florida,15,H0FL12101,dennis,ross,dennis ross,Republican,182999,0.57461205624321,1,Incumbent,1220745.57
+FL,Florida,15,H6FL15150,jim,lange,jim lange,Democrat,135475,0.42538794375679,0,Challenger,39917.88
+FL,Florida,16,H6FL13148,vern,buchanan,vern buchanan,Republican,230654,0.597679287720644,1,Incumbent,1660718.68
+FL,Florida,16,H2FL13139,jan,schneider,jan schneider,Democrat,155262,0.402320712279356,0,Challenger,70872.65
+FL,Florida,17,H8FL16022,tom,rooney,tom rooney,Republican,209348,0.618138333210305,1,Incumbent,625662.49
+FL,Florida,17,H4FL19058,april,freeman,april freeman,Democrat,115974,0.342434487340371,0,Challenger,133917.66
+FL,Florida,17,H2FL14160,john,sawyer,john sawyer,Other,13353,0.0394271794493246,0,Challenger,7800.0
+FL,Florida,18,H6FL18097,brian,mast,brian mast,Republican,201488,0.535989231694146,1,Open,2967556.89
+FL,Florida,18,H6FL18147,randy,perkins,randy perkins,Democrat,161918,0.430726913848233,0,Open,10873242.18
+FL,Florida,18,H6FL18121,carla,spalding,carla spalding,Other,12503,0.0332599130661474,0,Open,26883.53
+FL,Florida,19,H6FL19087,francis,rooney,francis rooney,Republican,239225,0.658720805361735,1,Open,5147060.3
+FL,Florida,19,H4FL14091,robert,neeld,robert neeld,Democrat,123812,0.340923985174824,0,Open,15390.0
+FL,Florida,20,H2FL23021,alcee,hastings,alcee hastings,Democrat,222914,0.803120046116155,1,Incumbent,811734.3
+FL,Florida,21,H2FL14053,lois,frankel,lois frankel,Democrat,210606,0.627062981411953,1,Incumbent,1644081.84
+FL,Florida,21,H4FL22110,paul,spain,paul spain,Republican,118038,0.351448962517232,0,Open,49834.91
+FL,Florida,22,H0FL19080,ted,deutch,ted deutch,Democrat,199113,0.589353263282522,1,Incumbent,1514747.39
+FL,Florida,22,H4FL22086,andrea,mcgee,andrea mcgee,Republican,138737,0.410646736717478,0,Challenger,25594.03
+FL,Florida,23,H4FL20023,debbie,schultz,debbie schultz,Democrat,183225,0.567049393414212,1,Incumbent,4037050.28
+FL,Florida,23,H2FL20043,joseph,kaufman,joseph kaufman,Republican,130818,0.404858875959396,0,Challenger,133871.33
+FL,Florida,23,H6FL23089,don,endriss,don endriss,Other,5180,0.0160311958405546,0,Challenger,25000.0
+FL,Florida,23,H6FL23097,lyle,milstein,lyle milstein,Other,3897,0.0120605347858381,0,Challenger,10400.0
+FL,Florida,25,H2FL25018,mario,diazbalart,mario diazbalart,Other,157921,0.623602116569262,1,Incumbent,1385125.59
+FL,Florida,25,H6FL25027,alina,valdes,alina valdes,Democrat,95319,0.376397883430738,0,Challenger,37603.9
+FL,Florida,26,H4FL26038,carlos,curbelo,carlos curbelo,Other,148547,0.529500039209815,1,Incumbent,3885811.58
+FL,Florida,26,H8FL25015,joe,garcia,joe garcia,Democrat,115493,0.411678108803673,0,Challenger,1379367.35
+FL,Florida,27,H0FL18025,ileana,roslehtinen,ileana roslehtinen,Republican,157917,0.548938566517309,1,Incumbent,1558423.54
+FL,Florida,27,H6FL27031,scott,fuhrman,scott fuhrman,Democrat,129760,0.451061433482691,0,Challenger,941445.76
+GA,Georgia,2,H2GA02031,sanford,bishop,sanford bishop,Democrat,148543,0.612298484330109,1,Incumbent,1121629.62
+GA,Georgia,2,H4GA02060,greg,duke,greg duke,Republican,94056,0.387701515669891,0,Challenger,45535.0
+GA,Georgia,3,H6GA03113,drew,ferguson,drew ferguson,Republican,207218,0.683465979741876,1,Open,1258353.98
+GA,Georgia,4,H6GA04129,henry,johnson,henry johnson,Democrat,220146,0.75719459721606,1,Incumbent,505298.56
+GA,Georgia,4,H0GA04106,victor,armendariz,victor armendariz,Republican,70593,0.24280540278394,0,Challenger,7095.0
+GA,Georgia,5,H6GA05217,john,lewis,john lewis,Democrat,253781,0.844391430349128,1,Incumbent,1092287.29
+GA,Georgia,5,H6GA05290,douglas,bell,douglas bell,Republican,46768,0.155608569650872,0,Challenger,10268.57
+GA,Georgia,6,H4GA06087,tom,price,tom price,Republican,201088,0.616824895323691,1,Incumbent,2337387.1
+GA,Georgia,6,H6GA06124,rodney,stooksbury,rodney stooksbury,Democrat,124917,0.383175104676309,0,Challenger,0.0
+GA,Georgia,7,H0GA07133,rob,woodall,rob woodall,Republican,174081,0.603816844201026,1,Incumbent,663565.45
+GA,Georgia,8,H0GA08099,austin,scott,austin scott,Republican,173983,0.676429193493204,1,Incumbent,996674.31
+GA,Georgia,11,H4GA11061,barry,loudermilk,barry loudermilk,Republican,217935,0.674057738820604,1,Incumbent,833620.13
+GA,Georgia,12,H2GA12121,rick,allen,rick allen,Republican,159492,0.616008527994068,1,Incumbent,1143612.76
+GA,Georgia,12,H6GA12031,patricia,mccracken,patricia mccracken,Democrat,99420,0.383991472005933,0,Challenger,27528.0
+GU,Guam,0,H2GU00033,madeleine,bordallo,madeleine bordallo,Democrat,18345,0.536905876843831,1,Incumbent,189600.7
+GU,Guam,0,H6GU01016,felix,camacho,felix camacho,Republican,15617,0.457065090142824,0,Challenger,129213.0
+HI,Hawaii,1,H2HI02110,colleen,hanabusa,colleen hanabusa,Democrat,145417,0.718616109153625,1,Open,972777.38
+HI,Hawaii,2,H2HI02508,tulsi,gabbard,tulsi gabbard,Democrat,170848,0.811567766820574,1,Incumbent,2262362.51
+ID,Idaho,1,H0ID01253,raul,labrador,raul labrador,Republican,242252,0.68171444491033,1,Incumbent,508140.31
+ID,Idaho,1,H6ID01250,james,piotrowski,james piotrowski,Democrat,113052,0.318136409301069,0,Challenger,320424.19
+ID,Idaho,2,H8ID02064,mike,simpson,mike simpson,Republican,205292,0.629272584041663,1,Incumbent,1015933.11
+ID,Idaho,2,H6ID02183,anthony,tomkins,anthony tomkins,Other,25005,0.0766467322835853,0,Challenger,1438.62
+IL,Illinois,1,H2IL01042,bobby,rush,bobby rush,Democrat,234037,0.740946995839955,1,Incumbent,589580.0
+IL,Illinois,1,H6IL01159,august,deuser,august deuser,Republican,81817,0.259027676643598,0,Challenger,20656.0
+IL,Illinois,2,H2IL02172,robin,kelly,robin kelly,Democrat,235051,0.798076204833595,1,Incumbent,1110806.16
+IL,Illinois,5,H0IL05096,mike,quigley,mike quigley,Democrat,212842,0.678437097576214,1,Incumbent,1013643.52
+IL,Illinois,5,H6IL05150,vince,kolber,vince kolber,Republican,86222,0.27483393046117,0,Challenger,56222.89
+IL,Illinois,6,H6IL06117,peter,roskam,peter roskam,Republican,208555,0.592240150392167,1,Incumbent,3013381.97
+IL,Illinois,6,H6IL06166,amanda,howland,amanda howland,Democrat,143591,0.407759849607833,0,Challenger,100443.41
+IL,Illinois,7,H4IL07037,danny,davis,danny davis,Democrat,250584,0.842395433427686,1,Incumbent,552637.99
+IL,Illinois,8,H6IL08147,raja,krishnamoorthi,raja krishnamoorthi,Democrat,144954,0.583149281291864,1,Open,3572635.06
+IL,Illinois,8,H6IL08170,peter,dicianni,peter dicianni,Republican,103617,0.416850718708136,0,Open,315249.26
+IL,Illinois,9,H8IL09067,janice,schakowsky,janice schakowsky,Democrat,217306,0.664650036091366,1,Incumbent,1376477.89
+IL,Illinois,9,H6IL09145,joan,lasonde,joan lasonde,Republican,109550,0.335068573595801,0,Challenger,202329.6
+IL,Illinois,9,H4IL09074,david,williams,david williams,Other,79,0.0002416286381932,0,Challenger,15659.23
+IL,Illinois,10,H2IL10068,brad,schneider,brad schneider,Democrat,150435,0.526003860193849,1,Challenger,5197782.27
+IL,Illinois,10,H0IL10302,robert,dold,robert dold,Republican,135535,0.473905229443768,0,Incumbent,5488206.47
+IL,Illinois,11,H8IL14067,bill,foster,bill foster,Democrat,166578,0.604478668084319,1,Incumbent,2981949.73
+IL,Illinois,11,H6IL11117,tonia,khouri,tonia khouri,Republican,108995,0.395521331915681,0,Challenger,753146.76
+IL,Illinois,12,H4IL12060,michael,bost,michael bost,Republican,169976,0.543050843125603,1,Incumbent,2321040.38
+IL,Illinois,12,H6IL12099,charles,baricevic,charles baricevic,Democrat,124246,0.396949540258529,0,Challenger,1008200.63
+IL,Illinois,12,H2IL12130,paula,bradshaw,paula bradshaw,Other,18780,0.0599996166158683,0,Challenger,3963.66
+IL,Illinois,13,H2IL13120,rodney,davis,rodney davis,Republican,187583,0.596649427151918,1,Incumbent,2635220.44
+IL,Illinois,13,H6IL13121,mark,wicklund,mark wicklund,Democrat,126811,0.403350572848082,0,Challenger,26682.77
+IL,Illinois,14,H0IL14080,randall,hultgren,randall hultgren,Republican,200508,0.593048740450226,1,Incumbent,1183161.68
+IL,Illinois,14,H6IL14129,jim,walz,jim walz,Democrat,137589,0.406951259549774,0,Challenger,22919.33
+IL,Illinois,17,H2IL17071,cheri,bustos,cheri bustos,Democrat,173125,0.603080106455613,1,Incumbent,3584496.39
+IL,Illinois,18,H6IL18088,darin,lahood,darin lahood,Republican,250506,0.721331018218571,1,Incumbent,2550357.2
+IL,Illinois,18,H6IL18161,junius,rodriguez,junius rodriguez,Democrat,96770,0.278648825309618,0,Challenger,60549.95
+IN,Indiana,1,H4IN01012,peter,visclosky,peter visclosky,Democrat,207515,0.815117270202645,1,Incumbent,1009860.99
+IN,Indiana,2,H0IN02190,jackie,walorski,jackie walorski,Republican,164355,0.592575633569731,1,Incumbent,1898007.35
+IN,Indiana,2,H6IN02155,lynn,coleman,lynn coleman,Democrat,102401,0.369202868505212,0,Challenger,663102.74
+IN,Indiana,3,H6IN03229,jim,banks,jim banks,Republican,201396,0.70112481592497,1,Open,1755487.43
+IN,Indiana,4,H0IN04170,todd,rokita,todd rokita,Republican,193412,0.645925312422771,1,Incumbent,1441198.76
+IN,Indiana,4,H6IN04169,steven,mayoras,steven mayoras,Other,14766,0.0493130372636374,0,Challenger,1907.49
+IN,Indiana,5,H2IN05082,susan,brooks,susan brooks,Republican,221957,0.614609495064173,1,Incumbent,1734455.31
+IN,Indiana,5,H6IN05216,angela,demaree,angela demaree,Democrat,123849,0.342943774488765,0,Challenger,148371.64
+IN,Indiana,5,H6IN05257,matthew,wittlief,matthew wittlief,Other,15329,0.0424467304470627,0,Challenger,7471.44
+IN,Indiana,6,H0IN02125,luke,messer,luke messer,Republican,204920,0.691398012719942,1,Incumbent,1945850.71
+IN,Indiana,6,H6IN06206,barry,welsh,barry welsh,Democrat,79135,0.267000691667932,0,Challenger,6073.84
+IN,Indiana,7,H8IN07184,andr,carson,andr carson,Democrat,158739,0.599761967733404,1,Incumbent,1121602.41
+IN,Indiana,7,H8IN07259,catherine,ping,catherine ping,Republican,94456,0.356882155136585,0,Challenger,6030.0
+IN,Indiana,7,H6IN07386,drew,thompson,drew thompson,Other,11475,0.043355877130011,0,Challenger,16297.37
+IN,Indiana,8,H0IN08114,larry,bucshon,larry bucshon,Republican,187702,0.636897591894487,1,Incumbent,994854.35
+IN,Indiana,8,H6IN08244,ron,drake,ron drake,Democrat,93356,0.316769195793874,0,Challenger,12275.0
+IN,Indiana,9,H6IN09176,trey,hollingsworth,trey hollingsworth,Republican,174791,0.541411769807616,1,Open,3602039.04
+IN,Indiana,9,H2IN09167,shelli,yoder,shelli yoder,Democrat,130627,0.404614626923923,0,Open,1439886.91
+IA,Iowa,1,H2IA01055,rod,blum,rod blum,Republican,206903,0.53744249656473,1,Incumbent,2406981.12
+IA,Iowa,1,H4IA01077,monica,vernon,monica vernon,Democrat,177403,0.460814542167454,0,Challenger,2951995.11
+IA,Iowa,2,H6IA02146,dave,loebsack,dave loebsack,Democrat,198571,0.536631966965019,1,Incumbent,1626574.06
+IA,Iowa,2,H6IA02161,christopher,peters,christopher peters,Republican,170933,0.461941129415834,0,Challenger,216592.81
+IA,Iowa,3,H4IA03115,david,young,david young,Republican,208598,0.534473349099509,1,Incumbent,2522676.6
+IA,Iowa,3,H4IA04113,jim,mowrer,jim mowrer,Democrat,155002,0.397148764883278,0,Challenger,1959561.38
+IA,Iowa,4,H2IA05072,steve,king,steve king,Republican,226719,0.612325426255675,1,Incumbent,947982.84
+IA,Iowa,4,H6IA04134,kim,weaver,kim weaver,Democrat,142993,0.386197229506913,0,Challenger,160509.79
+KS,Kansas,1,H6KS01179,roger,marshall,roger marshall,Other,169992,0.658957789829089,1,Challenger,1653986.34
+KS,Kansas,1,H6KS01146,tim,huelskamp,tim huelskamp,Other,874,1.0,0,Incumbent,945520.99
+KS,Kansas,1,H4KS01059,alan,lapolice,alan lapolice,Independent,67739,0.262583778796842,0,Challenger,142830.21
+KS,Kansas,2,H8KS02090,lynn,jenkins,lynn jenkins,Other,181228,0.609372530690885,1,Incumbent,2200864.8
+KS,Kansas,3,H0KS03137,kevin,yoder,kevin yoder,Other,176022,0.51301466280788,1,Incumbent,3255822.98
+KS,Kansas,3,H6KS03241,jay,sidie,jay sidie,Other,139300,0.405988697601082,0,Challenger,579741.67
+KS,Kansas,4,H0KS04051,michael,pompeo,michael pompeo,Other,166998,0.606711692237267,1,Incumbent,1464958.57
+KS,Kansas,4,H6KS04165,daniel,giroux,daniel giroux,Democrat,81495,0.296075218618643,0,Challenger,264191.25
+KS,Kansas,4,H6KS04173,miranda,allen,miranda allen,Independent,19021,0.0691041994397841,0,Challenger,87890.28
+KY,Kentucky,1,H6KY01110,james,comer,james comer,Republican,216959,0.725612957816195,1,Open,1155295.46
+KY,Kentucky,1,H4KY01073,samuel,gaskins,samuel gaskins,Democrat,81710,0.273276678004421,0,Open,14624.98
+KY,Kentucky,3,H6KY03124,john,yarmuth,john yarmuth,Democrat,212401,0.634991958002236,1,Incumbent,690649.72
+KY,Kentucky,3,H6KY03173,harold,bratcher,harold bratcher,Republican,122093,0.365008041997764,0,Challenger,7525.0
+KY,Kentucky,4,H2KY04121,thomas,massie,thomas massie,Republican,233922,0.713205096543461,1,Incumbent,472749.9
+KY,Kentucky,6,H0KY06104,andy,barr,andy barr,Republican,202099,0.61089028404574,1,Incumbent,2592303.48
+KY,Kentucky,6,H6KY06127,nancy,kemper,nancy kemper,Democrat,128728,0.38910971595426,0,Challenger,455527.89
+LA,Louisiana,1,H0LA01087,steve,scalise,steve scalise,Republican,243645,0.745575112917243,1,Incumbent,3581223.24
+LA,Louisiana,1,H6LA01209,danil,faust,danil faust,Democrat,12708,0.0388875968517816,0,Challenger,7709.0
+LA,Louisiana,2,H8LA02054,cedric,richmond,cedric richmond,Democrat,198289,0.697540006120963,1,Incumbent,1404764.61
+LA,Louisiana,2,H6LA02215,melvin,holden,melvin holden,Democrat,57125,0.200954025940219,0,Challenger,53750.0
+LA,Louisiana,3,H6LA03148,clay,higgins,clay higgins,Republican,84912,0.264974068040967,1,Challenger,403923.01
+LA,Louisiana,3,H6LA03130,scott,angelle,scott angelle,Republican,91532,0.285632259232214,0,Challenger,2021228.97
+LA,Louisiana,3,H6LA03155,larry,rader,larry rader,Democrat,27830,0.0868455378931141,0,Challenger,16261.0
+LA,Louisiana,3,H6LA03122,gus,rantz,gus rantz,Republican,25662,0.080080136306615,0,Open,738256.88
+LA,Louisiana,3,H6LA03098,greg,ellison,greg ellison,Republican,24882,0.0776460896103653,0,Open,569907.75
+LA,Louisiana,3,H6LA03106,brett,geymann,brett geymann,Republican,21607,0.0674262140588041,0,Open,140889.98
+LA,Louisiana,3,H6LA03114,grover,rees,grover rees,Republican,2457,0.0076672470931865,0,Open,161236.7
+LA,Louisiana,4,H6LA04138,mike,johnson,mike johnson,Republican,70580,0.246796160637796,1,Open,1201812.45
+LA,Louisiana,4,H6LA04153,marshall,jones,marshall jones,Democrat,80593,0.28180848645908,0,Open,476615.9
+LA,Louisiana,4,H6LA04120,ralph,baucum,ralph baucum,Republican,50412,0.176274979456965,0,Open,785184.03
+LA,Louisiana,4,H6LA04146,oliver,jenkins,oliver jenkins,Republican,44521,0.155675996992849,0,Open,863244.6
+LA,Louisiana,4,H6LA04112,elbert,guillory,elbert guillory,Republican,21017,0.0734898683497386,0,Open,1106466.42
+LA,Louisiana,4,H6LA04096,rick,john,rick john,Republican,13220,0.0462262006748606,0,Open,189499.67
+LA,Louisiana,5,H4LA05221,ralph,abraham,ralph abraham,Republican,208545,0.815705892936768,1,Incumbent,607693.18
+LA,Louisiana,6,H4LA06153,garret,graves,garret graves,Republican,207483,0.62665132377725,1,Incumbent,1951463.2
+ME,Maine,1,H8ME01120,chellie,pingree,chellie pingree,Democrat,227546,0.579896073049586,1,Incumbent,614358.96
+ME,Maine,1,H6ME01207,mark,holbrook,mark holbrook,Republican,164569,0.419400546903471,0,Challenger,104143.75
+ME,Maine,2,H4ME02234,bruce,poliquin,bruce poliquin,Republican,192878,0.547664140517856,1,Incumbent,3404509.12
+ME,Maine,2,H4ME02200,emily,cain,emily cain,Democrat,159081,0.451699826510649,0,Challenger,3513506.97
+MD,Maryland,1,H8MD01094,andy,harris,andy harris,Republican,242574,0.669914415198138,1,Incumbent,1293839.02
+MD,Maryland,2,H2MD02160,dutch,ruppersberger,dutch ruppersberger,Democrat,192183,0.62098681659558,1,Incumbent,1144544.26
+MD,Maryland,2,H6MD02211,pat,mcdonough,pat mcdonough,Republican,102577,0.33144952824092,0,Challenger,241824.82
+MD,Maryland,3,H6MD03292,john,sarbanes,john sarbanes,Democrat,214640,0.631898137925959,1,Incumbent,948496.94
+MD,Maryland,3,H6MD03441,mark,plaster,mark plaster,Republican,115048,0.33870022815927,0,Challenger,608306.08
+MD,Maryland,4,H6MD04209,anthony,brown,anthony brown,Democrat,237501,0.740686106346484,1,Open,1649992.08
+MD,Maryland,5,H2MD05155,steny,hoyer,steny hoyer,Democrat,242989,0.673782838001963,1,Incumbent,3736291.14
+MD,Maryland,5,H4MD05144,mark,arness,mark arness,Republican,105931,0.293735476965566,0,Challenger,53054.16
+MD,Maryland,6,H2MD06195,john,delaney,john delaney,Democrat,185770,0.559593701897444,1,Incumbent,1957196.11
+MD,Maryland,6,H6MD06212,amie,hoeber,amie hoeber,Republican,133081,0.400878987146545,0,Challenger,1177501.27
+MD,Maryland,7,H6MD07160,elijah,cummings,elijah cummings,Democrat,238838,0.748915061208108,1,Incumbent,1091551.88
+MD,Maryland,8,H6MD08457,jamie,raskin,jamie raskin,Democrat,220657,0.605661444209001,1,Open,2555285.17
+MD,Maryland,8,H6MD08564,dan,cox,dan cox,Republican,124651,0.342143257100822,0,Open,79636.47
+MD,Maryland,8,H6MD08598,nancy,wallace,nancy wallace,Other,11201,0.0307446119388237,0,Open,16882.52
+MA,Massachusetts,1,H8MA02041,richard,neal,richard neal,Democrat,235803,0.733357384329739,1,Incumbent,1792791.11
+MA,Massachusetts,1,H6MA01096,thomas,simmons,thomas simmons,Other,27511,0.0855603830328514,0,Challenger,17850.0
+MA,Massachusetts,3,H8MA05143,nicola,tsongas,nicola tsongas,Democrat,236713,0.6869370153689,1,Incumbent,1213205.85
+MA,Massachusetts,3,H4MA03097,ann,wofford,ann wofford,Republican,107519,0.312018270882667,0,Challenger,41826.53
+MA,Massachusetts,4,H2MA04073,joseph,kennedy,joseph kennedy,Democrat,265823,0.700985989404372,1,Incumbent,3149238.04
+MA,Massachusetts,4,H0MA09027,david,rosa,david rosa,Republican,113055,0.298130602062693,0,Challenger,18633.55
+MA,Massachusetts,8,H2MA09072,stephen,lynch,stephen lynch,Democrat,271019,0.724136641149987,1,Incumbent,1216340.21
+MA,Massachusetts,8,H6MA08299,william,burke,william burke,Republican,102744,0.274522063243958,0,Challenger,47391.0
+MA,Massachusetts,9,H0MA10082,william,keating,william keating,Democrat,211790,0.557496150252043,1,Incumbent,1200514.28
+MA,Massachusetts,9,H4MA09052,mark,alliegro,mark alliegro,Republican,127803,0.336416641440398,0,Challenger,262049.96
+MA,Massachusetts,9,H6MA09180,paul,harrington,paul harrington,Independent,26233,0.0690532910409455,0,Challenger,63438.0
+MA,Massachusetts,9,H6MA09164,christopher,cataldo,christopher cataldo,Other,8338,0.0219481698890483,0,Challenger,8608.0
+MI,Michigan,1,H6MI01226,jack,bergman,jack bergman,Republican,197777,0.548967305167499,1,Open,1392239.43
+MI,Michigan,1,H6MI01200,lon,johnson,lon johnson,Democrat,144334,0.400626195280775,0,Challenger,2064534.58
+MI,Michigan,1,H6MI01234,diane,bostow,diane bostow,Other,13386,0.037155363601289,0,Open,6574.24
+MI,Michigan,2,H0MI02094,bill,huizenga,bill huizenga,Republican,212508,0.626261316484346,1,Incumbent,1201720.31
+MI,Michigan,2,H6MI02182,dennis,murphy,dennis murphy,Democrat,110391,0.325322401923802,0,Challenger,16620.78
+MI,Michigan,3,H0MI03126,justin,amash,justin amash,Republican,203545,0.594526309640296,1,Incumbent,688107.52
+MI,Michigan,3,H6MI03172,douglas,smith,douglas smith,Democrat,128400,0.375038336278533,0,Challenger,30184.5
+MI,Michigan,4,H4MI04126,john,moolenaar,john moolenaar,Republican,194572,0.616219742771994,1,Incumbent,1055125.41
+MI,Michigan,4,H2MI04237,debra,wirth,debra wirth,Other,101277,0.320749577990252,0,Challenger,14942.92
+MI,Michigan,5,H2MI05119,daniel,kildee,daniel kildee,Democrat,195279,0.611601955582838,1,Incumbent,1090756.31
+MI,Michigan,6,H6MI04113,fred,upton,fred upton,Republican,193259,0.586406323487021,1,Incumbent,2985193.3
+MI,Michigan,6,H4MI06105,paul,clements,paul clements,Democrat,119980,0.364055649113225,0,Challenger,1159966.24
+MI,Michigan,6,H6MI06159,lorence,wenke,lorence wenke,Other,16248,0.0493013517818943,0,Challenger,0.0
+MI,Michigan,7,H4MI07103,tim,walberg,tim walberg,Republican,184321,0.550529110801148,1,Incumbent,2406972.54
+MI,Michigan,7,H6MI07223,gretchen,driskell,gretchen driskell,Democrat,134010,0.40026044855693,0,Challenger,2576893.05
+MI,Michigan,8,H4MI08135,mike,bishop,mike bishop,Republican,205629,0.560345861219507,1,Incumbent,1651429.76
+MI,Michigan,8,H6MI08262,suzanna,shkreli,suzanna shkreli,Democrat,143791,0.391835255390116,0,Challenger,780514.76
+MI,Michigan,8,H4MI08101,jeremy,burgess,jeremy burgess,Other,2250,0.0061313248021625,0,Challenger,0.0
+MI,Michigan,9,H2MI17023,sander,levin,sander levin,Democrat,199661,0.579105213545066,1,Incumbent,1306856.98
+MI,Michigan,10,H4MI04118,paul,mitchell,paul mitchell,Republican,215132,0.63091708384289,1,Open,3982089.77
+MI,Michigan,10,H6MI10227,frank,accavitti,frank accavitti,Democrat,110112,0.322925189818847,0,Open,48426.12
+MI,Michigan,11,H4MI11097,david,trott,david trott,Republican,200872,0.529323720381145,1,Incumbent,1353149.44
+MI,Michigan,11,H4MI11089,anil,kumar,anil kumar,Democrat,152461,0.401754469179526,0,Challenger,1177138.09
+MI,Michigan,11,H2MI11133,kerry,bentivolio,kerry bentivolio,Other,16610,0.0437694999578379,0,Challenger,46201.49
+MI,Michigan,12,H4MI12079,debbie,dingell,debbie dingell,Democrat,211378,0.643381972472317,1,Incumbent,1176763.41
+MI,Michigan,12,H6MI12264,jeff,jones,jeff jones,Republican,96104,0.292516634098532,0,Challenger,40861.0
+MI,Michigan,12,H6MI12272,tom,bagwell,tom bagwell,Other,7489,0.022794650303462,0,Challenger,889.06
+MI,Michigan,13,H6MI01028,john,conyers,john conyers,Democrat,198771,0.771036901127632,1,Incumbent,627678.4
+MI,Michigan,14,H2MI14111,brenda,lawrence,brenda lawrence,Democrat,244135,0.785065632496607,1,Incumbent,872534.44
+MN,Minnesota,1,H6MN01174,tim,walz,tim walz,Other,169074,0.503380701864075,1,Incumbent,1572880.8
+MN,Minnesota,1,H0MN01045,jim,hagedorn,jim hagedorn,Republican,166526,0.495794591472474,0,Challenger,368847.14
+MN,Minnesota,2,H6MN02149,jason,lewis,jason lewis,Republican,173970,0.469536913584912,1,Open,1045808.6
+MN,Minnesota,2,H6MN02131,angie,craig,angie craig,Other,167315,0.451575379067997,0,Challenger,4811520.19
+MN,Minnesota,2,H4MN02136,paula,overby,paula overby,Other,28869,0.0779160841425695,0,Open,3817.61
+MN,Minnesota,3,H8MN03077,erik,paulsen,erik paulsen,Republican,223077,0.566956570359677,1,Incumbent,4954433.03
+MN,Minnesota,3,H8MN03069,terri,bonoff,terri bonoff,Other,169243,0.430135920948295,0,Challenger,1975383.62
+MN,Minnesota,4,H0MN04049,betty,mccollum,betty mccollum,Other,203299,0.57764587548019,1,Incumbent,920365.29
+MN,Minnesota,4,H6MN04236,greg,ryan,greg ryan,Republican,121032,0.343895619757689,0,Challenger,65628.55
+MN,Minnesota,5,H6MN05183,keith,ellison,keith ellison,Other,249964,0.690733443498157,1,Incumbent,2799429.48
+MN,Minnesota,6,H4MN06087,tom,emmer,tom emmer,Republican,235380,0.655793427020762,1,Incumbent,1887293.93
+MN,Minnesota,7,H2MN07014,collin,peterson,collin peterson,Other,173589,0.52467900667376,1,Incumbent,1203941.53
+MN,Minnesota,7,H6MN07304,dave,hughes,dave hughes,Republican,156952,0.474393074765451,0,Challenger,19835.65
+MN,Minnesota,8,H2MN08111,rick,nolan,rick nolan,Other,179098,0.50170458206225,1,Incumbent,3047314.2
+MN,Minnesota,8,H4MN08083,stewart,mills,stewart mills,Republican,177089,0.496076800035856,0,Challenger,3778710.55
+MS,Mississippi,1,H6MS01131,trent,kelly,trent kelly,Republican,206455,0.687214361084205,1,Incumbent,1104907.86
+MS,Mississippi,2,H4MS02068,bennie,thompson,bennie thompson,Democrat,192343,0.671059150251547,1,Incumbent,1029909.16
+MS,Mississippi,2,H6MS02162,john,bouie,john bouie,Republican,83542,0.291466929029467,0,Challenger,0.0
+MS,Mississippi,3,H8MS03067,gregg,harper,gregg harper,Republican,209490,0.662010775964228,1,Incumbent,1009225.0
+MS,Mississippi,4,H0MS04120,steven,palazzo,steven palazzo,Republican,181323,0.650418431804404,1,Incumbent,782618.1
+MS,Mississippi,4,H6MS04192,mark,gladney,mark gladney,Democrat,77505,0.278015919420042,0,Challenger,61077.05
+MO,Missouri,1,H0MO01066,lacy,clay,lacy clay,Democrat,236993,0.754697093215805,1,Incumbent,660079.99
+MO,Missouri,2,H2MO02102,ann,wagner,ann wagner,Republican,241954,0.585425457783284,1,Incumbent,2326366.1
+MO,Missouri,2,H6MO02301,bill,otto,bill otto,Democrat,155689,0.376700960086718,0,Challenger,463311.27
+MO,Missouri,3,H8MO09153,blaine,luetkemeyer,blaine luetkemeyer,Republican,249865,0.678367129744009,1,Incumbent,1905574.11
+MO,Missouri,3,H6MO03325,doanita,simmons,doanita simmons,Other,3605,0.0097873391740626,0,Challenger,2663.0
+MO,Missouri,4,H0MO04086,vicky,hartzler,vicky hartzler,Republican,225348,0.678280970641175,1,Incumbent,928062.53
+MO,Missouri,4,H6MO04224,gordon,christensen,gordon christensen,Democrat,92510,0.278448322567829,0,Challenger,217312.08
+MO,Missouri,5,H4MO05234,emanuel,cleaver,emanuel cleaver,Democrat,190766,0.588293705862399,1,Incumbent,1165082.56
+MO,Missouri,5,H6MO05189,jacob,turk,jacob turk,Republican,123771,0.381691183273198,0,Challenger,124450.53
+MO,Missouri,6,H0MO06073,sam,graves,sam graves,Republican,238388,0.680245631256349,1,Incumbent,1526911.24
+MO,Missouri,7,H0MO07113,billy,long,billy long,Republican,228692,0.6753906446116,1,Incumbent,1468339.43
+MO,Missouri,7,H4MO07131,genevieve,williams,genevieve williams,Democrat,92756,0.27393408878139,0,Challenger,20564.3
+MO,Missouri,8,H4MO08162,jason,smith,jason smith,Republican,229792,0.743974021517074,1,Incumbent,1696238.68
+MT,Montana,0,H4MT01041,ryan,zinke,ryan zinke,Republican,285358,0.561915282840158,1,Incumbent,5680723.67
+MT,Montana,0,H6MT01095,denise,juneau,denise juneau,Democrat,205919,0.405487258556488,0,Challenger,2760222.95
+NE,Nebraska,1,H4NE01064,jeff,fortenberry,jeff fortenberry,Republican,189771,0.694526383592326,1,Incumbent,802661.38
+NE,Nebraska,2,H6NE02125,don,bacon,don bacon,Republican,141066,0.489289232348738,1,Challenger,1607044.1
+NE,Nebraska,2,H4NE02054,brad,ashford,brad ashford,Democrat,137602,0.477274303869473,0,Incumbent,2512188.38
+NV,Nevada,1,H8NV03036,dina,titus,dina titus,Democrat,116537,0.618719206591913,1,Incumbent,952070.38
+NV,Nevada,1,H6NV01208,mary,perry,mary perry,Republican,54174,0.287621049949032,0,Challenger,31504.87
+NV,Nevada,1,H6NV01232,reuben,dsilva,reuben dsilva,Other,13897,0.0737820676180768,0,Challenger,26094.17
+NV,Nevada,2,H2NV02395,mark,amodei,mark amodei,Republican,182676,0.583003548905967,1,Incumbent,870349.56
+NV,Nevada,2,H6NV02248,chip,evans,chip evans,Democrat,115722,0.369322388745628,0,Challenger,209819.06
+NV,Nevada,3,H6NV03139,jacky,rosen,jacky rosen,Democrat,146869,0.472303778906172,1,Open,1730753.77
+NV,Nevada,3,H2NV04045,danny,tarkanian,danny tarkanian,Republican,142926,0.459623813765625,0,Open,2081375.71
+NV,Nevada,4,H2NV00050,ruben,kihuen,ruben kihuen,Democrat,128985,0.485186912723908,1,Challenger,2248239.36
+NV,Nevada,4,H4NV04017,cresent,hardy,cresent hardy,Republican,118328,0.445099794617937,0,Incumbent,1892629.38
+NH,New Hampshire,1,H6NH01230,carol,sheaporter,carol sheaporter,Democrat,162080,0.442860890093556,1,Challenger,1537929.58
+NH,New Hampshire,1,H0NH01217,frank,guinta,frank guinta,Republican,157176,0.429461397219551,0,Incumbent,1540561.73
+NH,New Hampshire,1,H0NH01225,rich,ashooh,rich ashooh,Other,55,0.0001502797936521,0,Challenger,318115.22
+NH,New Hampshire,1,H6NH01271,shawn,oconnor,shawn oconnor,Independent,34735,0.0949085205910641,0,Challenger,2031306.36
+NH,New Hampshire,2,H0NH02181,ann,kuster,ann kuster,Democrat,174495,0.4974301083545,1,Incumbent,3221019.51
+NH,New Hampshire,2,H6NH02238,jim,lawrence,jim lawrence,Republican,158973,0.453181790970743,0,Challenger,105442.61
+NJ,New Jersey,1,H4NJ01084,donald,norcross,donald norcross,Democrat,183231,0.599827153299964,1,Incumbent,2431549.03
+NJ,New Jersey,1,H6NJ01204,bob,patterson,bob patterson,Republican,112388,0.367914676583528,0,Challenger,213282.85
+NJ,New Jersey,1,H4NJ01142,scot,tomaszewski,scot tomaszewski,Other,5473,0.0179164770699865,0,Challenger,9984.0
+NJ,New Jersey,2,H2NJ02037,frank,lobiondo,frank lobiondo,Republican,176338,0.592145603519199,1,Incumbent,1598321.69
+NJ,New Jersey,2,H4NJ02157,david,cole,david cole,Democrat,110838,0.372195637938851,0,Challenger,127884.19
+NJ,New Jersey,2,H6NJ02194,james,keenan,james keenan,Other,2653,0.0089088131096895,0,Challenger,502.48
+NJ,New Jersey,3,H4NJ03130,tom,macarthur,tom macarthur,Republican,194596,0.593171980735231,1,Incumbent,1921317.84
+NJ,New Jersey,3,H4NJ03163,frederick,lavergne,frederick lavergne,Democrat,127526,0.38872767176736,0,Challenger,600.0
+NJ,New Jersey,4,H8NJ04014,christopher,smith,christopher smith,Republican,211992,0.637217299299035,1,Incumbent,728767.64
+NJ,New Jersey,4,H6NJ04158,lorna,phillipson,lorna phillipson,Democrat,111532,0.335249065178969,0,Challenger,160233.65
+NJ,New Jersey,5,H6NJ05171,joshua,gottheimer,joshua gottheimer,Democrat,172587,0.511064521573818,1,Challenger,4799702.17
+NJ,New Jersey,5,H8NJ05052,scott,garrett,scott garrett,Republican,157690,0.466951534049351,0,Incumbent,2469908.66
+NJ,New Jersey,6,H8NJ03073,frank,pallone,frank pallone,Democrat,167895,0.63732989162412,1,Incumbent,2415229.49
+NJ,New Jersey,6,H6NJ06229,brent,sonnekschmelz,brent sonnekschmelz,Republican,91908,0.348883026173439,0,Challenger,75784.4
+NJ,New Jersey,7,H6NJ12136,leonard,lance,leonard lance,Republican,185850,0.540835479505871,1,Incumbent,1120242.4
+NJ,New Jersey,7,H6NJ07151,peter,jacob,peter jacob,Democrat,148188,0.431236631891396,0,Challenger,320853.43
+NJ,New Jersey,8,H6NJ13191,albio,sires,albio sires,Democrat,134733,0.770391505469183,1,Incumbent,635397.21
+NJ,New Jersey,9,H6NJ08118,bill,pascrell,bill pascrell,Democrat,162642,0.697310089949495,1,Incumbent,1743985.39
+NJ,New Jersey,9,H6NJ09231,hector,castillo,hector castillo,Republican,65376,0.280292571663766,0,Challenger,99778.6
+NJ,New Jersey,10,H2NJ10154,donald,payne,donald payne,Democrat,190856,0.856736289732506,1,Incumbent,538946.11
+NJ,New Jersey,11,H2NJ05014,rodney,frelinghuysen,rodney frelinghuysen,Republican,194299,0.580010865931127,1,Incumbent,1994556.82
+NJ,New Jersey,12,H4NJ12149,bonnie,coleman,bonnie coleman,Democrat,181430,0.628581525392019,1,Incumbent,1102180.85
+NM,New Mexico,1,H8NM01257,michelle,grisham,michelle grisham,Democrat,181088,0.651473016581105,1,Incumbent,1885721.53
+NM,New Mexico,2,H2NM02126,steve,pearce,steve pearce,Republican,143515,0.62720427240983,1,Incumbent,1860536.25
+NM,New Mexico,2,H6NM02101,merrie,soules,merrie soules,Democrat,85232,0.372489806264395,0,Challenger,405438.89
+NM,New Mexico,3,H8NM03196,ben,lujan,ben lujan,Democrat,170612,0.624170453131974,1,Incumbent,2108972.55
+NM,New Mexico,3,H6NM03067,michael,romero,michael romero,Republican,102730,0.375829546868026,0,Challenger,98903.73
+NY,New York,1,H8NY01148,lee,zeldin,lee zeldin,Republican,158409,0.48908271326685,1,Incumbent,4412494.79
+NY,New York,1,H6NY01126,anna,throneholst,anna throneholst,Democrat,126635,0.390981506066875,0,Challenger,3897881.86
+NY,New York,2,H2NY03089,peter,king,peter king,Other,157571,0.538529366530529,1,Incumbent,1066997.59
+NY,New York,2,H6NY02124,du,gregory,du gregory,Democrat,102270,0.349527503887626,0,Challenger,376956.35
+NY,New York,3,H6NY03247,thomas,suozzi,thomas suozzi,Democrat,171775,0.529754451756956,1,Open,2410013.78
+NY,New York,3,H6NY03197,jack,martins,jack martins,Republican,133954,0.413114410307968,0,Open,1179479.64
+NY,New York,4,H4NY04075,kathleen,rice,kathleen rice,Democrat,181861,0.581025559105431,1,Incumbent,2119648.91
+NY,New York,4,H6NY03171,david,gurfein,david gurfein,Other,111246,0.355418530351438,0,Open,451163.28
+NY,New York,5,H8NY06048,gregory,meeks,gregory meeks,Democrat,197852,0.846052862268177,1,Incumbent,990039.17
+NY,New York,5,H6NY05077,michael,oreilly,michael oreilly,Republican,26791,0.11456342232086,0,Challenger,47458.0
+NY,New York,6,H2NY06116,grace,meng,grace meng,Democrat,131463,0.693981513252707,1,Incumbent,1257531.33
+NY,New York,7,H2NY00010,nydia,velazquez,nydia velazquez,Democrat,165819,0.87323713729001,1,Incumbent,772106.48
+NY,New York,8,H2NY10092,hakeem,jeffries,hakeem jeffries,Democrat,203235,0.88285122261656,1,Incumbent,1294870.12
+NY,New York,9,H4NY11138,yvette,clarke,yvette clarke,Democrat,198886,0.856920041017864,1,Incumbent,685410.46
+NY,New York,10,H2NY17071,jerrold,nadler,jerrold nadler,Democrat,180117,0.730623668999087,1,Incumbent,1611448.37
+NY,New York,10,H6NY10119,philip,rosenthal,philip rosenthal,Republican,46275,0.187709157286279,0,Challenger,74397.61
+NY,New York,11,H6NY11174,dan,donovan,dan donovan,Republican,122606,0.527753027113814,1,Incumbent,1993452.67
+NY,New York,11,H6NY11216,richard,reichard,richard reichard,Democrat,85257,0.366985627397048,0,Challenger,32149.08
+NY,New York,12,H2NY14037,carolyn,maloney,carolyn maloney,Democrat,230153,0.782644327390324,1,Incumbent,1690309.28
+NY,New York,13,H2NY13096,adriano,espaillat,adriano espaillat,Democrat,207194,0.8864407432285,1,Open,862663.79
+NY,New York,13,H6NY13170,scott,fenstermaker,scott fenstermaker,Other,1877,0.0080303931341636,0,Open,28220.0
+NY,New York,14,H8NY07046,joseph,crowley,joseph crowley,Democrat,138367,0.775934680327271,1,Incumbent,3023443.91
+NY,New York,14,H6NY14244,frank,spotorno,frank spotorno,Republican,26891,0.150799392114309,0,Challenger,150224.1
+NY,New York,15,H0NY18065,jose,serrano,jose serrano,Democrat,165688,0.952032912730699,1,Incumbent,276468.99
+NY,New York,16,H8NY19058,eliot,engel,eliot engel,Democrat,198811,0.894618188363407,1,Incumbent,1650684.82
+NY,New York,16,H6NY16132,derickson,lawrence,derickson lawrence,Other,11825,0.053210637627683,0,Challenger,49221.21
+NY,New York,17,H8NY20056,nita,lowey,nita lowey,Democrat,193819,0.894886534155182,1,Incumbent,1711257.5
+NY,New York,18,H2NY22139,sean,maloney,sean maloney,Democrat,140951,0.483492095071812,1,Incumbent,3612704.66
+NY,New York,18,H6NY18203,phil,oliva,phil oliva,Republican,111117,0.381155090266082,0,Challenger,224658.09
+NY,New York,19,H6NY19169,john,faso,john faso,Republican,135905,0.44180368903886,1,Open,3025560.29
+NY,New York,19,H6NY19243,zephyr,teachout,zephyr teachout,Democrat,125956,0.409461207877405,0,Open,5066156.72
+NY,New York,20,H8NY21203,paul,tonko,paul tonko,Democrat,188426,0.600199401794616,1,Incumbent,1155680.62
+NY,New York,21,H4NY21079,elise,stefanik,elise stefanik,Republican,152597,0.55977124494692,1,Incumbent,3150716.49
+NY,New York,21,H6NY21132,mike,derrick,mike derrick,Democrat,75965,0.278662245145008,0,Challenger,1243257.67
+NY,New York,21,H4NY21111,matthew,funiciello,matthew funiciello,Other,12452,0.0456776446593252,0,Challenger,15063.37
+NY,New York,22,H4NY22051,claudia,tenney,claudia tenney,Republican,113287,0.406730310091157,1,Open,971967.05
+NY,New York,22,H6NY22130,kim,myers,kim myers,Democrat,102734,0.368842247362053,0,Open,1667279.6
+NY,New York,22,H6NY22148,martin,babinec,martin babinec,Other,24595,0.0883025587816078,0,Open,3015593.95
+NY,New York,23,H0NY29054,thomas,reed,thomas reed,Republican,136964,0.489620533719413,1,Incumbent,3120505.54
+NY,New York,23,H6NY23518,john,plumb,john plumb,Democrat,106600,0.38107494593097,0,Challenger,1645756.58
+NY,New York,24,H4NY24073,john,katko,john katko,Republican,150330,0.497591976565215,1,Incumbent,2703779.53
+NY,New York,24,H6NY24177,colleen,deacon,colleen deacon,Democrat,110550,0.36592026215183,0,Challenger,1490226.81
+NY,New York,25,H6NY03031,louise,slaughter,louise slaughter,Democrat,168660,0.517630305280959,1,Incumbent,1421769.16
+NY,New York,25,H4NY29098,mark,assini,mark assini,Republican,113840,0.349383576148371,0,Challenger,226761.99
+NY,New York,26,H4NY27076,brian,higgins,brian higgins,Democrat,195322,0.676606195809186,1,Incumbent,792629.52
+NY,New York,27,H8NY29032,chris,collins,chris collins,Republican,175509,0.533771885806046,1,Incumbent,1173542.34
+NC,North Carolina,1,H4NC01046,butterfield,butterfield,butterfield butterfield,Democrat,240661,0.686232353100522,1,Incumbent,1113965.75
+NC,North Carolina,1,H6NC01108,powell,dew,powell dew,Republican,101567,0.289613029977274,0,Challenger,21148.0
+NC,North Carolina,2,H2NC13110,george,holding,george holding,Republican,221485,0.567085800899718,1,Incumbent,2773011.64
+NC,North Carolina,2,H6NC13046,john,mcneil,john mcneil,Democrat,169082,0.432914199100282,0,Challenger,84665.84
+NC,North Carolina,3,H2NC01081,walter,jones,walter jones,Republican,217531,0.672012134655129,1,Incumbent,675247.86
+NC,North Carolina,3,H6NC03161,ernest,reeves,ernest reeves,Democrat,106170,0.327987865344871,0,Challenger,0.0
+NC,North Carolina,4,H6NC04037,david,price,david price,Democrat,279380,0.682178341118472,1,Incumbent,793105.6
+NC,North Carolina,4,H6NC04151,sue,googe,sue googe,Republican,130161,0.317821658881528,0,Challenger,115969.32
+NC,North Carolina,5,H4NC05146,virginia,foxx,virginia foxx,Republican,207625,0.584016854564684,1,Incumbent,1580094.72
+NC,North Carolina,6,H4NC06052,mark,walker,mark walker,Republican,207983,0.592291043713513,1,Incumbent,907920.57
+NC,North Carolina,6,H6NC06099,pete,glidewell,pete glidewell,Democrat,143167,0.407708956286487,0,Challenger,95312.54
+NC,North Carolina,7,H2NC07096,david,rouzer,david rouzer,Republican,211801,0.60913817995663,1,Incumbent,1346086.13
+NC,North Carolina,7,H4NC07100,wesley,casteen,wesley casteen,Democrat,135905,0.39086182004337,0,Challenger,14888.0
+NC,North Carolina,8,H2NC08185,richard,hudson,richard hudson,Republican,189863,0.587729263724868,1,Incumbent,2098886.3
+NC,North Carolina,8,H6NC08145,thomas,mills,thomas mills,Democrat,133182,0.412270736275132,0,Challenger,407264.3
+NC,North Carolina,9,H2NC09134,robert,pittenger,robert pittenger,Republican,193452,0.58182277521632,1,Incumbent,1140818.29
+NC,North Carolina,9,H6NC09184,christian,cano,christian cano,Democrat,139041,0.41817722478368,0,Challenger,60264.42
+NC,North Carolina,10,H4NC10047,patrick,mchenry,patrick mchenry,Republican,220825,0.631390388398371,1,Incumbent,3226166.96
+NC,North Carolina,10,H6NC10158,andy,millard,andy millard,Democrat,128919,0.368609611601629,0,Challenger,391349.83
+NC,North Carolina,11,H2NC11080,mark,meadows,mark meadows,Republican,230405,0.64088977157671,1,Incumbent,659568.95
+NC,North Carolina,11,H6NC11198,rick,bryson,rick bryson,Democrat,129103,0.35911022842329,0,Challenger,47956.0
+NC,North Carolina,12,H4NC12100,alma,adams,alma adams,Democrat,234115,0.670240480961924,1,Incumbent,928244.67
+NC,North Carolina,12,H4NC12142,leon,threatt,leon threatt,Republican,115185,0.329759519038076,0,Challenger,41698.75
+NC,North Carolina,13,H6NC13129,ted,budd,ted budd,Republican,199443,0.561033722277857,1,Challenger,611328.76
+NC,North Carolina,13,H4NC06136,bruce,davis,bruce davis,Democrat,156049,0.438966277722143,0,Challenger,102615.18
+ND,North Dakota,0,H0ND01026,kevin,cramer,kevin cramer,Republican,233980,0.691309730277523,1,Incumbent,1408240.58
+ND,North Dakota,0,H6ND01015,chase,eyes,chase eyes,Other,80377,0.237479281094608,0,Challenger,228174.97
+ND,North Dakota,0,H4ND01028,jack,seaman,jack seaman,Other,23528,0.0695150668175466,0,Challenger,2530.0
+OH,Ohio,1,H8OH01043,steve,chabot,steve chabot,Republican,210014,0.591942230289638,1,Incumbent,1017388.98
+OH,Ohio,1,H6OH01096,michele,young,michele young,Democrat,144644,0.407691353709821,0,Challenger,247599.48
+OH,Ohio,2,H2OH02085,brad,wenstrup,brad wenstrup,Republican,221193,0.650034236611722,1,Incumbent,1145267.64
+OH,Ohio,3,H2OH03125,joyce,beatty,joyce beatty,Democrat,199791,0.685739880762379,1,Incumbent,1184049.64
+OH,Ohio,4,H6OH04082,jim,jordan,jim jordan,Republican,210227,0.679888618664459,1,Incumbent,733416.16
+OH,Ohio,4,H4OH04046,janet,garrett,janet garrett,Democrat,98981,0.320111381335541,0,Challenger,90513.09
+OH,Ohio,5,H8OH05036,bob,latta,bob latta,Republican,244599,0.709001104376636,1,Incumbent,1056036.48
+OH,Ohio,6,H0OH06189,bill,johnson,bill johnson,Republican,213975,0.706759591088504,1,Incumbent,1700076.35
+OH,Ohio,6,H6OH06152,michael,lorentz,michael lorentz,Democrat,88780,0.293240408911496,0,Challenger,11888.64
+OH,Ohio,7,H0OH18077,bob,gibbs,bob gibbs,Republican,198221,0.640345918146489,1,Incumbent,899319.05
+OH,Ohio,7,H6OH07127,roy,rich,roy rich,Democrat,89638,0.289572383404457,0,Challenger,7728.65
+OH,Ohio,7,H4OH07049,dan,phillip,dan phillip,Other,21694,0.070081698449054,0,Challenger,19423.56
+OH,Ohio,8,H6OH08315,warren,davidson,warren davidson,Republican,223833,0.687646310667085,1,Incumbent,977808.93
+OH,Ohio,8,H6OH08331,steven,fought,steven fought,Democrat,87794,0.269715458394008,0,Challenger,3911.0
+OH,Ohio,9,H2OH09031,marcy,kaptur,marcy kaptur,Democrat,193966,0.686853306326532,1,Incumbent,900736.85
+OH,Ohio,9,H6OH09099,donald,larson,donald larson,Republican,88427,0.313128988165639,0,Challenger,32384.39
+OH,Ohio,10,H2OH03067,mike,turner,mike turner,Republican,215724,0.640887457590864,1,Incumbent,1068879.5
+OH,Ohio,10,H4OH10167,robert,klepinger,robert klepinger,Democrat,109981,0.326738997391578,0,Challenger,8434.5
+OH,Ohio,10,H6OH10113,tom,mcmasters,tom mcmasters,Other,10890,0.0323527489438565,0,Challenger,22085.62
+OH,Ohio,11,H8OH11141,marcia,fudge,marcia fudge,Democrat,242917,0.802537943611531,1,Incumbent,722468.99
+OH,Ohio,11,H6OH11160,beverly,goldstein,beverly goldstein,Republican,59769,0.197462056388469,0,Challenger,22043.99
+OH,Ohio,12,H0OH12062,pat,tiberi,pat tiberi,Republican,251266,0.665545354855457,1,Incumbent,4561513.63
+OH,Ohio,12,H6OH12127,ed,albertson,ed albertson,Democrat,112638,0.298351936514327,0,Challenger,29469.63
+OH,Ohio,13,H2OH17109,tim,ryan,tim ryan,Democrat,208610,0.677296398748068,1,Incumbent,1033644.83
+OH,Ohio,14,H2OH14064,david,joyce,david joyce,Republican,219191,0.625779044106101,1,Incumbent,2119215.84
+OH,Ohio,14,H4OH14102,michael,wager,michael wager,Democrat,130907,0.37373275967899,0,Challenger,251776.91
+OH,Ohio,15,H8OH15076,steve,stivers,steve stivers,Republican,222847,0.661645987167725,1,Incumbent,2981164.65
+OH,Ohio,15,H2OH15095,scott,wharton,scott wharton,Democrat,113960,0.338354012832275,0,Challenger,39981.0
+OH,Ohio,16,H0OH16097,jim,renacci,jim renacci,Republican,225794,0.653293752748652,1,Incumbent,2107393.77
+OK,Oklahoma,2,H2OK02083,markwayne,mullin,markwayne mullin,Republican,189839,0.706062409342805,1,Incumbent,1588433.64
+OK,Oklahoma,3,H4OK06056,frank,lucas,frank lucas,Republican,227525,0.782908659222683,1,Incumbent,1204602.87
+OK,Oklahoma,4,H2OK04055,tom,cole,tom cole,Republican,204143,0.69628464915123,1,Incumbent,1808368.65
+OK,Oklahoma,5,H4OK05132,steve,russell,steve russell,Republican,160184,0.570923477207114,1,Incumbent,865837.42
+OK,Oklahoma,5,H6OK05251,al,mcaffrey,al mcaffrey,Democrat,103273,0.368082831378979,0,Challenger,69872.49
+OR,Oregon,1,H2OR01133,suzanne,bonamici,suzanne bonamici,Other,225391,0.596122667583544,1,Incumbent,975327.46
+OR,Oregon,2,H6OR02116,greg,walden,greg walden,Other,272952,0.716900553922766,1,Incumbent,3315749.26
+OR,Oregon,3,H6OR03064,earl,blumenauer,earl blumenauer,Democrat,274687,0.718408285493847,1,Incumbent,1511721.32
+OR,Oregon,4,H6OR04047,peter,defazio,peter defazio,Other,220628,0.554944059884095,1,Incumbent,1502596.63
+OR,Oregon,4,H0OR04081,art,robinson,art robinson,Other,157743,0.396769860753381,0,Challenger,66352.04
+OR,Oregon,5,H8OR05107,kurt,schrader,kurt schrader,Other,199505,0.534711129217278,1,Incumbent,1909841.12
+OR,Oregon,5,H6OR05143,colm,willis,colm willis,Republican,160443,0.430017582040589,0,Challenger,279932.23
+PA,Pennsylvania,1,H8PA01153,robert,brady,robert brady,Democrat,245791,0.821680729577578,1,Incumbent,755407.09
+PA,Pennsylvania,2,H6PA02171,dwight,evans,dwight evans,Democrat,322514,0.901420969076314,1,Challenger,1534200.26
+PA,Pennsylvania,4,H2PA04135,scott,perry,scott perry,Republican,220628,0.65999772649767,1,Incumbent,676933.76
+PA,Pennsylvania,5,H8PA05071,glenn,thompson,glenn thompson,Republican,206761,0.670798848915262,1,Incumbent,1206124.38
+PA,Pennsylvania,5,H4PA05062,kerith,taylor,kerith taylor,Democrat,101082,0.32794235492212,0,Challenger,105295.61
+PA,Pennsylvania,6,H0PA06076,ryan,costello,ryan costello,Republican,207469,0.571924378921369,1,Incumbent,2484857.41
+PA,Pennsylvania,6,H4PA06052,mike,parrish,mike parrish,Democrat,155000,0.42728445566717,0,Challenger,411751.58
+PA,Pennsylvania,7,H0PA07082,patrick,meehan,patrick meehan,Republican,225678,0.5948,1,Incumbent,2436664.37
+PA,Pennsylvania,7,H4PA07092,mary,balchunis,mary balchunis,Democrat,153824,0.405174253060063,0,Challenger,201162.23
+PA,Pennsylvania,8,H6PA08277,brian,fitzpatrick,brian fitzpatrick,Republican,207263,0.5441944851416,1,Open,2178900.19
+PA,Pennsylvania,8,H6PA08228,steve,santarsiero,steve santarsiero,Democrat,173555,0.455689987449522,0,Open,2848701.4
+PA,Pennsylvania,9,H2PA09035,bill,shuster,bill shuster,Republican,186580,0.628037861345613,1,Incumbent,4104005.17
+PA,Pennsylvania,9,H4PA09056,art,halvorson,art halvorson,Other,107985,0.363483055297492,0,Challenger,299253.55
+PA,Pennsylvania,10,H0PA10078,tom,marino,tom marino,Republican,211282,0.700695116936179,1,Incumbent,1101958.12
+PA,Pennsylvania,10,H6PA10141,michael,molesevich,michael molesevich,Other,89823,0.297888781290211,0,Challenger,71898.11
+PA,Pennsylvania,11,H2PA11098,lou,barletta,lou barletta,Republican,199421,0.636221231089247,1,Incumbent,1347448.6
+PA,Pennsylvania,11,H6PA11073,mike,marsicano,mike marsicano,Democrat,113800,0.36306094191663,0,Challenger,422488.98
+PA,Pennsylvania,12,H0PA04220,keith,rothfus,keith rothfus,Republican,221851,0.617087560116046,1,Incumbent,1756636.42
+PA,Pennsylvania,12,H4PA12043,erin,mcclelland,erin mcclelland,Democrat,137353,0.382052943843477,0,Challenger,238962.76
+PA,Pennsylvania,14,H4PA18131,mike,doyle,mike doyle,Democrat,255293,0.742553896987819,1,Incumbent,823547.8
+PA,Pennsylvania,14,H6PA14192,lenny,mcallister,lenny mcallister,Other,87999,0.255956882409745,0,Challenger,17390.0
+PA,Pennsylvania,15,H4PA15087,charles,dent,charles dent,Republican,190618,0.583414950662325,1,Incumbent,1669362.27
+PA,Pennsylvania,15,H2PA15099,rick,daugherty,rick daugherty,Democrat,124129,0.379915403638501,0,Challenger,22367.27
+PA,Pennsylvania,16,H6PA16320,lloyd,smucker,lloyd smucker,Republican,168669,0.536620672760303,1,Open,1728569.42
+PA,Pennsylvania,16,H6PA16296,christina,hartman,christina hartman,Democrat,134586,0.428185557892192,0,Open,1193732.4
+PA,Pennsylvania,17,H2PA17079,matt,cartwright,matt cartwright,Democrat,157734,0.537477297586474,1,Incumbent,969667.01
+PA,Pennsylvania,17,H4PA17141,matt,connolly,matt connolly,Republican,135430,0.461476602458165,0,Challenger,30578.0
+PR,Puerto Rico,0,H6PR00082,jenniffer,gonzalez,jenniffer gonzalez,Other,718591,0.485923198017874,1,Open,941389.09
+PR,Puerto Rico,0,H6PR00090,hector,rios,hector rios,Other,695073,0.470019934866812,0,Open,286447.75
+PR,Puerto Rico,0,H6PR01031,mariana,molinelli,mariana molinelli,Other,19033,0.0128704314803194,0,Open,2451.87
+RI,Rhode Island,1,H0RI01073,david,cicilline,david cicilline,Democrat,130540,0.645033773600755,1,Incumbent,1523477.59
+RI,Rhode Island,1,H4RI01133,harold,taub,harold taub,Republican,71023,0.35094403020106,0,Challenger,123025.09
+RI,Rhode Island,2,H0RI02139,james,langevin,james langevin,Democrat,133108,0.580882224588476,1,Incumbent,1168206.09
+RI,Rhode Island,2,H4RI02107,rhue,reis,rhue reis,Republican,70301,0.306792989683523,0,Challenger,7670.0
+SC,South Carolina,1,H4SC01073,mark,sanford,mark sanford,Republican,190410,0.585570624596365,1,Incumbent,741773.11
+SC,South Carolina,1,H4SC01271,dimitri,cherny,dimitri cherny,Democrat,110539,0.339942184088323,0,Challenger,27561.9
+SC,South Carolina,2,H2SC02059,joe,wilson,joe wilson,Republican,183746,0.602453802672822,1,Incumbent,1153117.97
+SC,South Carolina,2,H6SC02100,arik,bjorn,arik bjorn,Democrat,105306,0.345270101902976,0,Challenger,70174.61
+SC,South Carolina,3,H0SC03077,jeff,duncan,jeff duncan,Republican,198431,0.728237932186097,1,Incumbent,618229.2
+SC,South Carolina,3,H4SC03111,hosea,cleveland,hosea cleveland,Democrat,73766,0.270719793306689,0,Challenger,10737.0
+SC,South Carolina,4,H0SC04257,trey,gowdy,trey gowdy,Republican,198648,0.671857138025501,1,Incumbent,1902503.31
+SC,South Carolina,4,H6SC04163,chris,fedalei,chris fedalei,Democrat,91676,0.31006189332702,0,Challenger,100747.12
+SC,South Carolina,5,H0SC05031,mick,mulvaney,mick mulvaney,Republican,175909,0.59073278684671,1,Incumbent,1271154.29
+SC,South Carolina,5,H6SC05129,fran,person,fran person,Democrat,115437,0.387657372364254,0,Challenger,706808.0
+SC,South Carolina,6,H2SC02042,james,clyburn,james clyburn,Democrat,177947,0.700851906845582,1,Incumbent,2183228.43
+SC,South Carolina,7,H2SC07066,tom,rice,tom rice,Republican,176468,0.609639228502434,1,Incumbent,1113297.11
+SC,South Carolina,7,H6SC07018,mal,hyman,mal hyman,Democrat,103454,0.35739973675392,0,Challenger,95568.25
+SD,South Dakota,0,H0SD00054,kristi,noem,kristi noem,Republican,237163,0.641027858789696,1,Incumbent,2346017.66
+SD,South Dakota,0,H6SD01091,paula,hawks,paula hawks,Democrat,132810,0.358972141210305,0,Challenger,402739.72
+TN,Tennessee,1,H6TN01388,phil,roe,phil roe,Republican,198293,0.783689358759016,1,Incumbent,403651.27
+TN,Tennessee,2,H8TN02069,john,duncan,john duncan,Republican,212455,0.7564552653317,1,Incumbent,382499.02
+TN,Tennessee,3,H0TN03254,chuck,fleischmann,chuck fleischmann,Republican,176613,0.663943670443524,1,Incumbent,1647860.81
+TN,Tennessee,3,H6TN03152,melody,shekari,melody shekari,Democrat,76727,0.28844086223619,0,Challenger,100120.43
+TN,Tennessee,4,H0TN04195,scott,desjarlais,scott desjarlais,Republican,165796,0.650341064655189,1,Incumbent,607723.43
+TN,Tennessee,4,H6TN04200,steven,reynolds,steven reynolds,Democrat,89141,0.349658935344811,0,Challenger,62387.76
+TN,Tennessee,5,H2TN05131,jim,cooper,jim cooper,Democrat,171111,0.625533734974995,1,Incumbent,653995.05
+TN,Tennessee,5,H6TN05322,stacy,snyder,stacy snyder,Republican,102433,0.374466265025005,0,Challenger,93199.95
+TN,Tennessee,6,H0TN06257,diane,black,diane black,Republican,202234,0.710865056768252,1,Incumbent,1818177.58
+TN,Tennessee,6,H6TN06155,david,kent,david kent,Democrat,61995,0.217916271222187,0,Challenger,6204.03
+TN,Tennessee,7,H2TN06030,marsha,blackburn,marsha blackburn,Republican,200407,0.722153556770314,1,Incumbent,2239550.04
+TN,Tennessee,8,H2TN07103,david,kustoff,david kustoff,Republican,194386,0.687524979397523,1,Open,1397459.98
+TN,Tennessee,8,H2TN08077,james,hart,james hart,Independent,4057,0.0143492270092278,0,Open,501.2
+TN,Tennessee,9,H6TN09068,steve,cohen,steve cohen,Democrat,171631,0.787453488532142,1,Incumbent,615634.82
+TX,Texas,1,H4TX04039,louie,gohmert,louie gohmert,Republican,192434,0.7389683152272,1,Incumbent,742484.6
+TX,Texas,1,H2TX01062,shirley,mckellar,shirley mckellar,Democrat,62847,0.241339585037384,0,Challenger,13358.34
+TX,Texas,2,H4TX02108,ted,poe,ted poe,Republican,168692,0.60629106226369,1,Incumbent,838509.88
+TX,Texas,2,H6TX02160,pat,bryan,pat bryan,Democrat,100231,0.360237352463376,0,Challenger,14417.05
+TX,Texas,3,H2TX03118,sam,johnson,sam johnson,Republican,193684,0.61201957866065,1,Incumbent,1100214.21
+TX,Texas,4,H4TX04153,john,ratcliffe,john ratcliffe,Republican,216643,0.879875720900008,1,Incumbent,927771.79
+TX,Texas,5,H2TX05121,jeb,hensarling,jeb hensarling,Republican,155469,0.806060920285159,1,Incumbent,2258314.34
+TX,Texas,6,H4TX06117,joe,barton,joe barton,Republican,159444,0.583411392775599,1,Incumbent,1350975.29
+TX,Texas,6,H6TX06203,ruby,woolridge,ruby woolridge,Democrat,106667,0.39029843100521,0,Challenger,27339.05
+TX,Texas,7,H0TX07055,john,culberson,john culberson,Republican,143542,0.56173566623489,1,Incumbent,1216620.06
+TX,Texas,7,H2TX07036,james,cargas,james cargas,Democrat,111991,0.438264333765111,0,Challenger,68159.55
+TX,Texas,9,H4TX09095,al,green,al green,Democrat,152032,0.8064374108199,1,Incumbent,706231.24
+TX,Texas,10,H4TX10093,michael,mccaul,michael mccaul,Republican,179221,0.573323736404351,1,Incumbent,1774897.36
+TX,Texas,10,H2TX10113,tawana,cadien,tawana cadien,Democrat,120170,0.384420985284709,0,Challenger,6120.63
+TX,Texas,11,H4TX19136,mike,conaway,mike conaway,Republican,201871,0.895024562399135,1,Incumbent,1939446.23
+TX,Texas,12,H6TX12060,kay,granger,kay granger,Republican,196482,0.694000671105381,1,Incumbent,1416152.97
+TX,Texas,12,H6TX12136,bill,bradshaw,bill bradshaw,Democrat,76029,0.26854458435618,0,Challenger,525.0
+TX,Texas,13,H4TX13014,mac,thornberry,mac thornberry,Republican,199050,0.899693548241292,1,Incumbent,1824829.15
+TX,Texas,14,H2TX14149,randy,weber,randy weber,Republican,160631,0.618560948841866,1,Incumbent,625262.86
+TX,Texas,14,H2TX36134,michael,cole,michael cole,Democrat,99054,0.381439051158134,0,Challenger,21586.0
+TX,Texas,15,H6TX15162,vicente,gonzalez,vicente gonzalez,Democrat,101712,0.573093154683089,1,Open,2426195.0
+TX,Texas,15,H6TX15204,tim,westley,tim westley,Republican,66877,0.376816412082556,0,Open,17567.1
+TX,Texas,16,H2TX16185,beto,orourke,beto orourke,Democrat,150228,0.857323844797379,1,Incumbent,590656.43
+TX,Texas,17,H0TX17104,bill,flores,bill flores,Republican,149417,0.608058503711421,1,Incumbent,1735450.88
+TX,Texas,17,H6TX17093,william,matta,william matta,Democrat,86603,0.352434399010288,0,Challenger,39642.9
+TX,Texas,18,H4TX18054,sheila,lee,sheila lee,Democrat,150157,0.734954088924565,1,Incumbent,485724.07
+TX,Texas,18,H6TX18141,lori,bartley,lori bartley,Republican,48306,0.236437143919964,0,Challenger,36335.71
+TX,Texas,19,H6TX19099,jodey,arrington,jodey arrington,Republican,176314,0.866514313797764,1,Open,1593170.88
+TX,Texas,20,H2TX35011,joaquin,castro,joaquin castro,Democrat,149640,0.797361311671081,1,Incumbent,1204584.21
+TX,Texas,21,H6TX21012,lamar,smith,lamar smith,Republican,202967,0.570082380466869,1,Incumbent,1590453.96
+TX,Texas,21,H6TX21228,tom,wakely,tom wakely,Democrat,129765,0.364476688827658,0,Challenger,70714.74
+TX,Texas,22,H8TX22107,pete,olson,pete olson,Republican,181864,0.595215730682752,1,Incumbent,1551907.95
+TX,Texas,22,H4TX22163,mark,gibson,mark gibson,Democrat,123679,0.404784269317248,0,Challenger,24584.0
+TX,Texas,23,H0TX23086,will,hurd,will hurd,Republican,110577,0.482942807852729,1,Incumbent,4184833.18
+TX,Texas,23,H2TX23124,pete,gallego,pete gallego,Democrat,107526,0.469617627148254,0,Challenger,2198475.57
+TX,Texas,24,H4TX24094,kenny,marchant,kenny marchant,Republican,154845,0.561775536488472,1,Incumbent,1033312.66
+TX,Texas,24,H6TX24149,jan,mcdowell,jan mcdowell,Democrat,108389,0.393233805576215,0,Challenger,21914.69
+TX,Texas,25,H2TX33040,roger,williams,roger williams,Republican,180988,0.58346335865066,1,Incumbent,1718990.87
+TX,Texas,25,H6TX25179,kathi,thomas,kathi thomas,Democrat,117073,0.37741621426453,0,Challenger,55579.27
+TX,Texas,26,H2TX26093,michael,burgess,michael burgess,Republican,211730,0.663563996489909,1,Incumbent,1364055.55
+TX,Texas,27,H0TX27061,blake,farenthold,blake farenthold,Republican,142251,0.616926880041634,1,Incumbent,1103979.0
+TX,Texas,27,H6TX27092,raul,barrera,raul barrera,Democrat,88329,0.383073119958366,0,Challenger,23558.99
+TX,Texas,28,H2TX23082,henry,cuellar,henry cuellar,Democrat,122086,0.661920820637382,1,Incumbent,1689931.66
+TX,Texas,29,H2TX29030,gene,green,gene green,Democrat,95649,0.724712460790108,1,Incumbent,1804288.75
+TX,Texas,30,H2TX00015,eddie,johnson,eddie johnson,Democrat,170502,0.779167009404733,1,Incumbent,383489.59
+TX,Texas,31,H2TX31044,john,carter,john carter,Republican,166060,0.583510197197352,1,Incumbent,1062407.96
+TX,Texas,31,H6TX31045,mike,clark,mike clark,Democrat,103852,0.36492051667674,0,Challenger,28317.41
+TX,Texas,32,H2TX03126,pete,sessions,pete sessions,Republican,162868,0.71068328889781,1,Incumbent,2406308.5
+TX,Texas,32,H6TX32092,gary,stuard,gary stuard,Other,22813,0.0995457540439235,0,Challenger,3188.57
+TX,Texas,33,H2TX33073,marc,veasey,marc veasey,Democrat,93147,0.737103245257935,1,Incumbent,1408175.76
+TX,Texas,33,H2TX33099,mark,mitchell,mark mitchell,Republican,33222,0.262896754742065,0,Challenger,29870.04
+TX,Texas,34,H2TX27190,filemon,vela,filemon vela,Democrat,104638,0.626721210342535,1,Incumbent,1238495.44
+TX,Texas,35,H4TX10028,lloyd,doggett,lloyd doggett,Democrat,124612,0.630704134105357,1,Incumbent,1061859.25
+TX,Texas,35,H2TX35029,susan,narvaiz,susan narvaiz,Republican,62384,0.315746851844354,0,Challenger,132850.27
+TX,Texas,36,H6TX02079,brian,babin,brian babin,Republican,193675,0.88612083361929,1,Incumbent,1131999.66
+UT,Utah,1,H2UT01094,rob,bishop,rob bishop,Republican,182928,0.659306914634806,1,Incumbent,1035353.03
+UT,Utah,1,H6UT01137,peter,clemens,peter clemens,Democrat,73381,0.264478924510281,0,Challenger,123390.03
+UT,Utah,2,H2UT02324,chris,stewart,chris stewart,Republican,170542,0.616028695171597,1,Incumbent,920060.29
+UT,Utah,2,H6UT02390,charlene,albarran,charlene albarran,Democrat,93780,0.338750401855217,0,Challenger,587047.69
+UT,Utah,3,H8UT03089,jason,chaffetz,jason chaffetz,Republican,209589,0.73461383431766,1,Incumbent,1406796.27
+UT,Utah,3,H4UT03211,stephen,tryon,stephen tryon,Democrat,75716,0.26538616568234,0,Challenger,55062.52
+UT,Utah,4,H2UT04023,mia,love,mia love,Republican,147597,0.537558864984758,1,Incumbent,5472751.26
+UT,Utah,4,H4UT04011,doug,owens,doug owens,Democrat,113413,0.413058284074313,0,Challenger,2116036.51
+VT,Vermont,0,H6VT00160,peter,welch,peter welch,Other,264414,0.895304976738202,1,Incumbent,1018957.71
+VA,Virginia,1,H8VA01147,robert,wittman,robert wittman,Republican,230213,0.598492155308003,1,Incumbent,1047333.61
+VA,Virginia,1,H6VA01174,matt,rowe,matt rowe,Democrat,140785,0.366003301659929,0,Challenger,47596.69
+VA,Virginia,2,H0VA02118,scott,taylor,scott taylor,Republican,190475,0.613169585372135,1,Open,870984.99
+VA,Virginia,2,H6VA02115,shaun,brown,shaun brown,Democrat,119440,0.384496523306722,0,Open,32646.42
+VA,Virginia,3,H6VA01117,robert,scott,robert scott,Democrat,208337,0.666953718494995,1,Incumbent,771224.07
+VA,Virginia,3,H6VA03089,marty,williams,marty williams,Republican,103289,0.330661296983395,0,Challenger,74329.31
+VA,Virginia,4,H6VA04061,donald,mceachin,donald mceachin,Democrat,200136,0.577261543875235,1,Challenger,795103.46
+VA,Virginia,4,H6VA07130,michael,wade,michael wade,Republican,145731,0.420338679950043,0,Challenger,146721.7
+VA,Virginia,5,H6VA05142,tom,garrett,tom garrett,Republican,207758,0.582338514147969,1,Open,670296.1
+VA,Virginia,5,H6VA05118,jane,dittmar,jane dittmar,Democrat,148339,0.415789104872956,0,Open,1390351.28
+VA,Virginia,6,H2VA06115,robert,goodlatte,robert goodlatte,Republican,225471,0.66617521923086,1,Incumbent,1794187.63
+VA,Virginia,6,H6VA06157,kai,degner,kai degner,Democrat,112170,0.331416786820148,0,Challenger,157181.77
+VA,Virginia,7,H4VA07143,david,brat,david brat,Republican,218057,0.575031183331619,1,Incumbent,1273941.57
+VA,Virginia,7,H6VA07148,eileen,bedell,eileen bedell,Democrat,160159,0.422350207932829,0,Challenger,247262.03
+VA,Virginia,8,H4VA08224,donald,beyer,donald beyer,Democrat,246653,0.683842223312734,1,Incumbent,2123667.57
+VA,Virginia,8,H6VA08237,charles,hernick,charles hernick,Republican,98387,0.27277667340381,0,Challenger,81179.34
+VA,Virginia,9,H0VA09055,morgan,griffith,morgan griffith,Republican,212838,0.685850731647585,1,Incumbent,836461.12
+VA,Virginia,9,H6VA09086,derek,kitts,derek kitts,Democrat,87877,0.283175489080873,0,Challenger,103692.52
+VA,Virginia,10,H4VA10089,barbara,comstock,barbara comstock,Republican,210791,0.526823404154285,1,Incumbent,5331366.52
+VA,Virginia,10,H6VA10209,luann,bennett,luann bennett,Democrat,187712,0.469142775738097,0,Challenger,2848448.67
+VA,Virginia,11,H8VA11062,gerry,connolly,gerry connolly,Democrat,247818,0.877784940599741,1,Incumbent,2027734.05
+WA,Washington,1,H0WA08046,suzan,delbene,suzan delbene,Democrat,193619,0.55415028134105,1,Incumbent,2027435.85
+WA,Washington,1,H4WA01258,robert,sutherland,robert sutherland,Republican,155779,0.445849718658951,0,Challenger,28832.18
+WA,Washington,2,H0WA02080,rick,larsen,rick larsen,Democrat,208314,0.640162503687678,1,Incumbent,958052.51
+WA,Washington,3,H0WA03187,jaime,beutler,jaime beutler,Republican,193457,0.617526980914654,1,Incumbent,1401198.72
+WA,Washington,3,H6WA03218,jim,moeller,jim moeller,Democrat,119820,0.382473019085346,0,Challenger,112575.05
+WA,Washington,4,H4WA04104,dan,newhouse,dan newhouse,Republican,132517,0.576363849877566,1,Incumbent,1273706.25
+WA,Washington,4,H4WA04088,clint,didier,clint didier,Republican,97402,0.423636150122434,0,Challenger,75387.49
+WA,Washington,5,H4WA05077,cathy,rodgers,cathy rodgers,Republican,192959,0.596410269090729,1,Incumbent,3274060.0
+WA,Washington,5,H4WA05127,joe,pakootas,joe pakootas,Democrat,130575,0.403589730909271,0,Challenger,345390.59
+WA,Washington,6,H2WA06129,derek,kilmer,derek kilmer,Democrat,201718,0.615305306954129,1,Incumbent,2140206.23
+WA,Washington,6,H6WA06211,todd,bloom,todd bloom,Republican,126116,0.384694693045871,0,Challenger,11522.0
+WA,Washington,7,H6WA07458,pramila,jayapal,pramila jayapal,Democrat,212010,0.559756464618196,1,Open,3010031.82
+WA,Washington,7,H6WA07425,brady,walkinshaw,brady walkinshaw,Democrat,166744,0.440243535381805,0,Open,1926231.21
+WA,Washington,8,H4WA08071,dave,reichert,dave reichert,Republican,193145,0.601950976267278,1,Incumbent,1663101.86
+WA,Washington,8,H6WA08092,tony,ventrella,tony ventrella,Democrat,127720,0.398049023732723,0,Challenger,22619.15
+WA,Washington,9,H6WA09025,adam,smith,adam smith,Democrat,205165,0.728874315231525,1,Incumbent,925645.11
+WA,Washington,9,H4WA09061,doug,basler,doug basler,Republican,76317,0.271125684768475,0,Challenger,33301.55
+WA,Washington,10,H0WA03161,denny,heck,denny heck,Democrat,170460,0.586652166132074,1,Incumbent,1578753.62
+WV,West Virginia,1,H0WV01072,david,mckinley,david mckinley,Republican,163469,0.689733885225082,1,Incumbent,1147964.04
+WV,West Virginia,1,H6WV01087,mike,manypenny,mike manypenny,Democrat,73534,0.310266114774918,0,Challenger,21193.84
+WV,West Virginia,2,H4WV02080,alex,mooney,alex mooney,Republican,140807,0.581813448808747,1,Incumbent,1754211.91
+WV,West Virginia,2,H0WV02104,mark,hunt,mark hunt,Democrat,101207,0.418186551191253,0,Challenger,483467.95
+WV,West Virginia,3,H4WV03070,evan,jenkins,evan jenkins,Republican,140741,0.678819477938765,1,Incumbent,1279545.54
+WV,West Virginia,3,H6WV03091,matt,detch,matt detch,Democrat,49708,0.239750737946868,0,Challenger,64867.45
+WV,West Virginia,3,H6WV03117,zane,lawhorn,zane lawhorn,Other,16883,0.0814297841143673,0,Challenger,89481.59
+WI,Wisconsin,1,H8WI01024,paul,ryan,paul ryan,Republican,230072,0.64947141102909,1,Incumbent,19852220.75
+WI,Wisconsin,1,H6WI01192,ryan,solen,ryan solen,Democrat,107003,0.302059309235134,0,Challenger,23748.92
+WI,Wisconsin,1,H6WI01200,jason,lebeck,jason lebeck,Other,7486,0.0211322672161922,0,Challenger,555.48
+WI,Wisconsin,2,H2WI02124,mark,pocan,mark pocan,Democrat,273537,0.687175300205999,1,Incumbent,1038977.75
+WI,Wisconsin,2,H8WI02121,peter,theron,peter theron,Republican,124044,0.311621363613526,0,Challenger,42322.99
+WI,Wisconsin,4,H4WI04183,gwen,moore,gwen moore,Democrat,220181,0.767424514393065,1,Incumbent,1018790.86
+WI,Wisconsin,4,H6WI04063,andy,craig,andy craig,Other,32183,0.112171455060664,0,Challenger,2951.0
+WI,Wisconsin,5,H8WI09050,sensenbrenner,sensenbrenner,sensenbrenner sensenbrenner,Republican,260706,0.667033394397765,1,Incumbent,384926.81
+WI,Wisconsin,5,H6WI05110,khary,penebaker,khary penebaker,Democrat,114477,0.292896910276223,0,Challenger,85273.5
+WI,Wisconsin,6,H4WI06048,glenn,grothman,glenn grothman,Republican,204147,0.571547358076952,1,Incumbent,1053488.02
+WI,Wisconsin,6,H6WI06100,sarah,lloyd,sarah lloyd,Democrat,133072,0.37255972428699,0,Challenger,191932.26
+WI,Wisconsin,6,H6WI06118,jeff,dahlke,jeff dahlke,Independent,19716,0.0551985956778458,0,Challenger,35170.0
+WI,Wisconsin,7,H0WI07051,sean,duffy,sean duffy,Republican,223418,0.616715111063265,1,Incumbent,2339393.44
+WI,Wisconsin,7,H6WI07181,mary,hoeft,mary hoeft,Democrat,138643,0.382705212396245,0,Challenger,116276.39
+WI,Wisconsin,8,H6WI08155,mike,gallagher,mike gallagher,Republican,227892,0.626455550057727,1,Open,2765648.26
+WI,Wisconsin,8,H6WI08163,tom,nelson,tom nelson,Democrat,135682,0.37297817362142,0,Open,1886963.54
+WY,Wyoming,0,H6WY00159,liz,cheney,liz cheney,Republican,156176,0.620297407219115,1,Open,2206005.88
+WY,Wyoming,0,H6WY01074,ryan,greene,ryan greene,Democrat,75466,0.299734684799187,0,Open,188039.0
+WY,Wyoming,0,H2WY00133,daniel,cummings,daniel cummings,Other,10362,0.0411556304016268,0,Open,600.0
