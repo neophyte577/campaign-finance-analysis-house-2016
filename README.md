@@ -26,6 +26,10 @@ Here’s a quick guide to the contents of this repository:
 - **scripts/**: Python scripts used for specific data cleaning or analytic tasks 
 - **README.md**: This document
 
+### How to Use This Repository
+
+The primary file of interest within this repo is the notebook entitled [house_campaign_finance_analysis_2016](https://github.com/neophyte577/campaign-finance-house-2016/blob/main/analysis/primary-analysis-larger-dataset/house_campaign_finance_analysis_2016.ipynb), which contains an exhaustive description and visualization of the main dataset. 
+
 ### Introduction
 
 Simultaneous explosions in computational capacity and data accessibility in recent decades have driven increased interest in quantitative approaches to social science research, particularly in the field of political science. Throughout this burgeoning era of big data, the general public has displayed a keen interest in so-called 'data journalism,' pioneered by online news outlets such as FiveThirtyEight and Vox, which deliver coverage of current events and politics with a strong emphasis on quantitative evidence in the form of statistical estimates and displays aimed at a non-specialist audience. Given that political datasets are often characterized by a relatively large number of observations and variables, this area of social science is replete with applications for a variety of machine learning approaches. The present analysis was undertaken in the spirit of popular data journalism with the aim of obtaining a clearer picture of a political issue of longstanding public concern, namely United States federal campaign finance, through the lens of conventional statistical methodology complemented by the use of several supervised machine learning algorithms. 
