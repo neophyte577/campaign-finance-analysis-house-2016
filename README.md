@@ -4,6 +4,10 @@
 
 This proof-of-concept pilot analysis of FEC campaign finance and electoral outcome data uses conventional statistical methodology complemented by several machine learning algorithms to explore the effect of campaign contributions and candidate incumbency on the outcome of the 2016 House election. The overall approach and repository structure were developed with scalability in mind in order to facilitate extensions of the project to incorporate data from additional House election cycles. 
 
+### How to Use This Repository
+
+The primary file of interest within this repository is the notebook entitled [house_campaign_finance_analysis_2016](https://github.com/neophyte577/campaign-finance-house-2016/blob/main/analysis/primary-analysis-larger-dataset/house_campaign_finance_analysis_2016.ipynb). This notebook provides a comprehensive description, visualization, and analysis of the main dataset.
+
 ### Repository Structure
 
 Here’s a quick guide to the contents of this repository:
@@ -25,10 +29,6 @@ Here’s a quick guide to the contents of this repository:
     - **tables/**: Summary statistics and regression results 
 - **scripts/**: Python scripts used for specific data cleaning or analytic tasks 
 - **README.md**: This document
-
-### How to Use This Repository
-
-The primary file of interest within this repo is the notebook entitled [house_campaign_finance_analysis_2016](https://github.com/neophyte577/campaign-finance-house-2016/blob/main/analysis/primary-analysis-larger-dataset/house_campaign_finance_analysis_2016.ipynb), which contains an exhaustive description and visualization of the main dataset. 
 
 ### Introduction
 
