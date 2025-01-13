@@ -9,9 +9,6 @@ AL,Alabama,6,H4AL06098,gary,palmer,gary palmer,Republican,245313,0.7449393573150
 AL,Alabama,6,H6AL06127,david,putman,david putman,Democrat,83709,0.254198222929433,0,Challenger,197378.52
 AK,Alaska,0,H6AK00045,don,young,don young,Republican,155088,0.503208976047865,1,Incumbent,1103561.86
 AK,Alaska,0,H6AK00235,steve,lindbeck,steve lindbeck,Democrat,111019,0.360219728875593,0,Challenger,1102309.77
-AS,American Samoa,0,H4AS00036,aumua,amata,aumua amata,Republican,8923,0.754013858374176,1,Incumbent,78278.3
-AS,American Samoa,0,H6AS00031,vaitinasa,hunkinfinau,vaitinasa hunkinfinau,Democrat,1581,0.133598107148893,0,Challenger,41670.0
-AS,American Samoa,0,H4AS00069,paepaetele,jamias,paepaetele jamias,Democrat,978,0.0826432313672469,0,Challenger,11803.0
 AZ,Arizona,1,H6AZ01199,tom,ohalleran,tom ohalleran,Democrat,142219,0.506640304941042,1,Open,1605996.95
 AZ,Arizona,1,H2AZ04127,paul,babeu,paul babeu,Republican,121745,0.433703822450216,0,Open,1294238.74
 AZ,Arizona,2,H2AZ08102,martha,mcsally,martha mcsally,Republican,179806,0.569584926460107,1,Incumbent,7878156.18
@@ -156,7 +153,6 @@ CT,Connecticut,5,H2CT05131,elizabeth,esty,elizabeth esty,Democrat,163499,0.52898
 CT,Connecticut,5,H6CT05157,clay,cope,clay cope,Other,4901,0.0158566335147307,0,Challenger,109862.67
 DE,Delaware,0,H6DE00206,lisa,rochester,lisa rochester,Democrat,233554,0.555234880182579,1,Open,1576041.65
 DE,Delaware,0,H6DE01071,hans,reigle,hans reigle,Republican,172301,0.409616298972994,0,Open,221665.5
-DC,District of Columbia,0,H0DC00058,eleanor,norton,eleanor norton,Democrat,265178,0.88126524562488,1,Incumbent,385250.0
 FL,Florida,1,H6FL01119,matt,gaetz,matt gaetz,Republican,255107,0.690998575243915,1,Open,1172645.54
 FL,Florida,1,H6FL01176,steven,specht,steven specht,Democrat,114079,0.309001424756085,0,Open,61750.03
 FL,Florida,2,H6FL02208,neal,dunn,neal dunn,Republican,231163,0.673234079484626,1,Open,2060858.58
@@ -228,8 +224,6 @@ GA,Georgia,8,H0GA08099,austin,scott,austin scott,Republican,173983,0.67642919349
 GA,Georgia,11,H4GA11061,barry,loudermilk,barry loudermilk,Republican,217935,0.674057738820604,1,Incumbent,833620.13
 GA,Georgia,12,H2GA12121,rick,allen,rick allen,Republican,159492,0.616008527994068,1,Incumbent,1143612.76
 GA,Georgia,12,H6GA12031,patricia,mccracken,patricia mccracken,Democrat,99420,0.383991472005933,0,Challenger,27528.0
-GU,Guam,0,H2GU00033,madeleine,bordallo,madeleine bordallo,Democrat,18345,0.536905876843831,1,Incumbent,189600.7
-GU,Guam,0,H6GU01016,felix,camacho,felix camacho,Republican,15617,0.457065090142824,0,Challenger,129213.0
 HI,Hawaii,1,H2HI02110,colleen,hanabusa,colleen hanabusa,Democrat,145417,0.718616109153625,1,Open,972777.38
 HI,Hawaii,2,H2HI02508,tulsi,gabbard,tulsi gabbard,Democrat,170848,0.811567766820574,1,Incumbent,2262362.51
 ID,Idaho,1,H0ID01253,raul,labrador,raul labrador,Republican,242252,0.68171444491033,1,Incumbent,508140.31
@@ -606,9 +600,6 @@ PA,Pennsylvania,16,H6PA16320,lloyd,smucker,lloyd smucker,Republican,168669,0.536
 PA,Pennsylvania,16,H6PA16296,christina,hartman,christina hartman,Democrat,134586,0.428185557892192,0,Open,1193732.4
 PA,Pennsylvania,17,H2PA17079,matt,cartwright,matt cartwright,Democrat,157734,0.537477297586474,1,Incumbent,969667.01
 PA,Pennsylvania,17,H4PA17141,matt,connolly,matt connolly,Republican,135430,0.461476602458165,0,Challenger,30578.0
-PR,Puerto Rico,0,H6PR00082,jenniffer,gonzalez,jenniffer gonzalez,Other,718591,0.485923198017874,1,Open,941389.09
-PR,Puerto Rico,0,H6PR00090,hector,rios,hector rios,Other,695073,0.470019934866812,0,Open,286447.75
-PR,Puerto Rico,0,H6PR01031,mariana,molinelli,mariana molinelli,Other,19033,0.0128704314803194,0,Open,2451.87
 RI,Rhode Island,1,H0RI01073,david,cicilline,david cicilline,Democrat,130540,0.645033773600755,1,Incumbent,1523477.59
 RI,Rhode Island,1,H4RI01133,harold,taub,harold taub,Republican,71023,0.35094403020106,0,Challenger,123025.09
 RI,Rhode Island,2,H0RI02139,james,langevin,james langevin,Democrat,133108,0.580882224588476,1,Incumbent,1168206.09
