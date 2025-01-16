@@ -6,7 +6,7 @@ This proof-of-concept pilot analysis of FEC campaign finance and electoral outco
 
 ### How to Use This Repository
 
-The primary file of interest within this repository is the notebook entitled [house_campaign_finance_analysis_2016](https://github.com/neophyte577/campaign-finance-house-2016/blob/main/analysis/primary-analysis-larger-dataset/house_campaign_finance_analysis_2016.ipynb). This notebook provides a comprehensive description, visualization, and analysis of the main dataset.
+The primary file of interest within this repository is the notebook entitled [house_campaign_finance_analysis_2016](https://github.com/neophyte577/campaign-finance-house-2016/blob/main/analysis/primary-analysis-larger-dataset/house_campaign_finance_analysis_2016.ipynb). This notebook provides a comprehensive description, visualization, and analysis of the main dataset. For a more extensive analysis of that subset of the main dataset for which complete voting information was available, see the supplementary notebook entitled [house_campaign_finance_analysis_2016_with_votes](https://github.com/neophyte577/campaign-finance-house-2016/blob/main/analysis/supplementary-analysis-smaller-dataset/house_campaign_finance_analysis_2016_with_votes.ipynb).
 
 ### Repository Structure
 
@@ -14,7 +14,7 @@ Here’s a quick guide to the contents of this repository:
 
 - **analysis/**: Jupyter notebooks in which the processed data are presented, analyzed, and discussed
   - **primary-analysis-larger-dataset/**: Main project notebook analyzing full processed dataset, excluding vote count and vote share 
-  - **supplementary-analysis-smaller-dataset/**: Secondary notebook analyzing more limited dataset including only those candidates for whom complete general election data were available
+  - **supplementary-analysis-smaller-dataset/**: Contains a secondary notebook analyzing more limited dataset including only those candidates for whom complete general election data were available
 - **data/**: 
   - **raw/**: FEC campaign finance and electoral data obtained from https://www.fec.gov/data/browse-data/?tab=bulk-data 
   - **processed/**: Cleaned and transformed data ready for synthesis
