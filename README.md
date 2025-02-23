@@ -1,4 +1,9 @@
 ## Campaign Finance Analysis Pilot Project
+
+![Image 1](results/smaller-dataset/figures/barplot_of_mean_campaign_contributions_by_electoral_outcome.png) | ![Image 2](results/smaller-dataset/figures/scatterplot_of_campaign_contributions_vs_vote_share.png)
+| -------- | ------- |
+![Image 3](results/smaller-dataset/figures/interaction_plot.png) | ![Image 4](results/smaller-dataset/figures/3d_logistic_regression_plot.jpg)
+
  
 ### Overview
 
